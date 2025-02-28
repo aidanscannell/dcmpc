@@ -1,0 +1,10 @@
+# @package _global_
+defaults:
+  - hard
+  - _self_
+
+env_name: "humanoid"
+task_name: "walk"
+
+agent:
+  latent_dim: 1024

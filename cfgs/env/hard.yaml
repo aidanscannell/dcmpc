@@ -1,0 +1,7 @@
+# @package _global_
+defaults:
+  - dmcontrol
+  - _self_
+
+agent:
+  exploration_noise_num_steps: 500  # number of episodes do decay noise

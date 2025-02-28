@@ -1,0 +1,10 @@
+# @package _global_
+defaults:
+  - _self_
+  - easy
+
+env_name: "cup"
+task_name: "spin"
+
+agent:
+  nstep: 3

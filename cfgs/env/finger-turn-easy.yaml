@@ -1,0 +1,10 @@
+# @package _global_
+defaults:
+  - _self_
+  - medium
+
+env_name: "finger"
+task_name: "turn_easy"
+
+agent:
+  nstep: 2

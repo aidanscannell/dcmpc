@@ -1,0 +1,41 @@
+name: dcmpc
+channels:
+  - nvidia
+  - pytorch
+  - conda-forge
+  - anaconda
+  - menpo
+dependencies:
+  - python=3.9
+  - pytorch=2.4 # This is overridden by post-install-amd.txt
+  - torchvision
+  - av # Needed for video logging with TorchRL
+  - tensorboard
+  - wandb=0.16
+  - hydra-core=1.3
+  - hydra-submitit-launcher=1.2
+  - hydra-colorlog=1.2
+  - imageio  # For VideoRecorder in utils/video.py
+  - imageio-ffmpeg # needed for rendering
+  - ffmpeg # needed for rendering
+  - moviepy  # For VideoRecorder in utils/video.py
+  # For mujoco
+  - glew
+  - mesalib
+  - mesa-libgl-cos6-x86_64 # Needed on LUMI for osmesa?
+  - glfw3
+  - seaborn
+  - matplotlib
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - termcolor
+      - jaxtyping  # Types with shapes for tensors
+      - torchrl==0.4 # Handle installation for tensordict
+      - tensordict==0.4 # Higher versions seem to break torchrl with env.set_seed()...
+      - vector_quantize_pytorch # This installs PyTorch (needs >2.0)
+      # TODO metaworld wants to use gymnasium==1.0.0a1
+      - git+https://github.com/Farama-Foundation/Metaworld.git@master#egg=metaworld==2.0.0
+      - myosuite==2.8.4
+      - dm_control==1.0.16  # Handles mujoco installation
+      - mujoco==3.1.2

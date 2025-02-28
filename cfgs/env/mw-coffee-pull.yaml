@@ -1,0 +1,6 @@
+# @package _global_
+defaults:
+  - metaworld
+  - _self_
+
+env_name: "mw-coffee-pull"

@@ -1,0 +1,13 @@
+# @package _global_
+num_episodes: 20000 # 20000*100=2M env steps
+max_episode_steps: 100
+eval_every_episodes: 250 # every 25k env steps
+task_name: ""
+action_repeat: 1
+scale_reward: true
+
+agent:
+  nstep: 1
+  exploration_noise_start: 1.0
+  exploration_noise_end: 0.05
+  exploration_noise_num_steps: 250  # number of episodes do decay noise

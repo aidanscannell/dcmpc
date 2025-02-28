@@ -1,0 +1,10 @@
+# @package _global_
+defaults:
+  - myosuite
+  - _self_
+
+env_name: "myo-pose"
+
+agent:
+  nstep: 5
+  temperature: 0.2

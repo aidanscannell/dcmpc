@@ -1,0 +1,9 @@
+# @package _global_
+defaults:
+  - myosuite
+  - _self_
+
+env_name: "myo-reach"
+
+agent:
+  nstep: 5

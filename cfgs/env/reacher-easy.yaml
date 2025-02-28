@@ -1,0 +1,10 @@
+# @package _global_
+defaults:
+  - medium
+  - _self_
+
+env_name: "reacher"
+task_name: "easy"
+
+agent:
+  nstep: 3

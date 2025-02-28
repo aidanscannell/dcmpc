@@ -1,0 +1,11 @@
+# @package _global_
+defaults:
+  - hard
+  - _self_
+
+env_name: "dog"
+task_name: "run"
+
+agent:
+  latent_dim: 1024
+  nstep: 3

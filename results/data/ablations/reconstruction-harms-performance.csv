@@ -1,0 +1,2656 @@
+agent,env,env_step,episode_reward,seed
+DCWM w/ reconstruction,walker-walk,0.0,35.085140228271484,1
+DCWM w/ reconstruction,walker-walk,25000.0,95.7498779296875,1
+DCWM w/ reconstruction,walker-walk,50000.0,294.4560241699219,1
+DCWM w/ reconstruction,walker-walk,75000.0,660.0355224609375,1
+DCWM w/ reconstruction,walker-walk,100000.0,922.8025512695312,1
+DCWM w/ reconstruction,walker-walk,125000.0,947.1619262695312,1
+DCWM w/ reconstruction,walker-walk,150000.0,941.9805908203124,1
+DCWM w/ reconstruction,walker-walk,175000.0,954.1163940429688,1
+DCWM w/ reconstruction,walker-walk,200000.0,957.6430053710938,1
+DCWM w/ reconstruction,walker-walk,225000.0,952.8214721679688,1
+DCWM w/ reconstruction,walker-walk,250000.0,963.8585815429688,1
+DCWM w/ reconstruction,walker-walk,275000.0,965.7777709960938,1
+DCWM w/ reconstruction,walker-walk,300000.0,960.0859375,1
+DCWM w/ reconstruction,walker-walk,325000.0,970.9304809570312,1
+DCWM w/ reconstruction,walker-walk,350000.0,965.2236328125,1
+DCWM w/ reconstruction,walker-walk,375000.0,968.9650268554688,1
+DCWM w/ reconstruction,walker-walk,400000.0,964.8165283203124,1
+DCWM w/ reconstruction,walker-walk,425000.0,970.6705932617188,1
+DCWM w/ reconstruction,walker-walk,450000.0,966.7327270507812,1
+DCWM w/ reconstruction,walker-walk,475000.0,967.0924072265624,1
+DCWM w/ reconstruction,walker-walk,500000.0,969.8404541015624,1
+DCWM w/ reconstruction,walker-walk,525000.0,969.0271606445312,1
+DCWM w/ reconstruction,walker-walk,550000.0,968.0968627929688,1
+DCWM w/ reconstruction,walker-walk,575000.0,970.0505981445312,1
+DCWM w/ reconstruction,walker-walk,600000.0,969.0675659179688,1
+DCWM w/ reconstruction,walker-walk,625000.0,969.8832397460938,1
+DCWM w/ reconstruction,walker-walk,650000.0,969.7935791015624,1
+DCWM w/ reconstruction,walker-walk,675000.0,965.07470703125,1
+DCWM w/ reconstruction,walker-walk,700000.0,970.4679565429688,1
+DCWM w/ reconstruction,walker-walk,725000.0,976.8978881835938,1
+DCWM w/ reconstruction,walker-walk,750000.0,971.5587768554688,1
+DCWM w/ reconstruction,walker-walk,775000.0,971.0623168945312,1
+DCWM w/ reconstruction,walker-walk,800000.0,973.0751342773438,1
+DCWM w/ reconstruction,walker-walk,825000.0,973.6555786132812,1
+DCWM w/ reconstruction,walker-walk,850000.0,973.0848999023438,1
+DCWM w/ reconstruction,walker-walk,875000.0,972.4755249023438,1
+DCWM w/ reconstruction,walker-walk,900000.0,974.5986328125,1
+DCWM w/ reconstruction,walker-walk,925000.0,968.9111328125,1
+DCWM w/ reconstruction,walker-walk,950000.0,979.5398559570312,1
+DCWM w/ reconstruction,walker-walk,975000.0,974.4430541992188,1
+DCWM w/ reconstruction,walker-walk,1000000.0,879.5836181640625,1
+DCWM w/ reconstruction,walker-walk,1025000.0,972.1713256835938,1
+DCWM w/ reconstruction,walker-walk,1050000.0,966.91748046875,1
+DCWM w/ reconstruction,walker-walk,1075000.0,975.0905151367188,1
+DCWM w/ reconstruction,walker-walk,1100000.0,971.1402587890624,1
+DCWM w/ reconstruction,walker-walk,1125000.0,976.3982543945312,1
+DCWM w/ reconstruction,walker-walk,1150000.0,974.0857543945312,1
+DCWM w/ reconstruction,walker-walk,1175000.0,971.1915893554688,1
+DCWM w/ reconstruction,walker-walk,1200000.0,971.3525390625,1
+DCWM w/ reconstruction,walker-walk,1225000.0,972.7639770507812,1
+DCWM w/ reconstruction,walker-walk,1250000.0,962.07666015625,1
+DCWM w/ reconstruction,walker-walk,1275000.0,969.3619384765624,1
+DCWM w/ reconstruction,walker-walk,1300000.0,977.78955078125,1
+DCWM w/ reconstruction,walker-walk,1325000.0,978.0507202148438,1
+DCWM w/ reconstruction,walker-walk,1350000.0,966.69140625,1
+DCWM w/ reconstruction,walker-walk,1375000.0,978.4030151367188,1
+DCWM w/ reconstruction,walker-walk,1400000.0,974.8922119140624,1
+DCWM w/ reconstruction,walker-walk,1425000.0,966.2286987304688,1
+DCWM w/ reconstruction,walker-walk,1450000.0,976.63720703125,1
+DCWM w/ reconstruction,walker-walk,1475000.0,978.3045043945312,1
+DCWM w/ reconstruction,walker-walk,1500000.0,972.6656494140624,1
+DCWM w/ reconstruction,walker-walk,1525000.0,977.9251098632812,1
+DCWM w/ reconstruction,walker-walk,1550000.0,976.1535034179688,1
+DCWM w/ reconstruction,walker-walk,1575000.0,969.3987426757812,1
+DCWM w/ reconstruction,walker-walk,1600000.0,972.1765747070312,1
+DCWM w/ reconstruction,walker-walk,1625000.0,974.5325317382812,1
+DCWM w/ reconstruction,walker-walk,1650000.0,979.1414184570312,1
+DCWM w/ reconstruction,walker-walk,1675000.0,978.9025268554688,1
+DCWM w/ reconstruction,walker-walk,1700000.0,977.6767578125,1
+DCWM w/ reconstruction,walker-walk,1725000.0,973.7569580078124,1
+DCWM w/ reconstruction,walker-walk,1750000.0,981.2476806640624,1
+DCWM w/ reconstruction,walker-walk,1775000.0,978.5382690429688,1
+DCWM w/ reconstruction,walker-walk,1800000.0,976.1390991210938,1
+DCWM w/ reconstruction,walker-walk,1825000.0,978.6781616210938,1
+DCWM w/ reconstruction,walker-walk,1850000.0,978.3079223632812,1
+DCWM w/ reconstruction,walker-walk,1875000.0,980.8889770507812,1
+DCWM w/ reconstruction,walker-walk,1900000.0,980.1025390625,1
+DCWM w/ reconstruction,walker-walk,1925000.0,972.2664184570312,1
+DCWM w/ reconstruction,walker-walk,1950000.0,978.7894897460938,1
+DCWM w/ reconstruction,walker-walk,1975000.0,968.48974609375,1
+DCWM w/ reconstruction,walker-walk,2000000.0,981.5476684570312,1
+DCWM w/ reconstruction,walker-walk,2025000.0,978.0584106445312,1
+DCWM w/ reconstruction,walker-walk,2050000.0,974.4353637695312,1
+DCWM w/ reconstruction,walker-walk,2075000.0,980.0741577148438,1
+DCWM w/ reconstruction,walker-walk,2100000.0,976.8564453125,1
+DCWM w/ reconstruction,walker-walk,2125000.0,974.0556640625,1
+DCWM w/ reconstruction,walker-walk,2150000.0,975.7945556640624,1
+DCWM w/ reconstruction,walker-walk,2175000.0,976.89599609375,1
+DCWM w/ reconstruction,walker-walk,2200000.0,978.4296875,1
+DCWM w/ reconstruction,walker-walk,2225000.0,980.0722045898438,1
+DCWM w/ reconstruction,walker-walk,2250000.0,974.9723510742188,1
+DCWM w/ reconstruction,walker-walk,2275000.0,981.5869140625,1
+DCWM w/ reconstruction,walker-walk,2300000.0,979.9421997070312,1
+DCWM w/ reconstruction,walker-walk,2325000.0,972.8682861328124,1
+DCWM w/ reconstruction,walker-walk,2350000.0,973.9906616210938,1
+DCWM w/ reconstruction,walker-walk,2375000.0,978.4826049804688,1
+DCWM w/ reconstruction,walker-walk,2400000.0,977.2618408203124,1
+DCWM w/ reconstruction,walker-walk,2425000.0,976.2514038085938,1
+DCWM w/ reconstruction,walker-walk,2450000.0,979.12939453125,1
+DCWM w/ reconstruction,walker-walk,2475000.0,975.5863647460938,1
+DCWM w/ reconstruction,walker-walk,2500000.0,977.1666870117188,1
+DCWM w/ reconstruction,walker-walk,2525000.0,975.33349609375,1
+DCWM w/ reconstruction,walker-walk,2550000.0,974.5783081054688,1
+DCWM w/ reconstruction,walker-walk,2575000.0,979.6179809570312,1
+DCWM w/ reconstruction,walker-walk,2600000.0,972.2527465820312,1
+DCWM w/ reconstruction,walker-walk,2625000.0,980.3474731445312,1
+DCWM w/ reconstruction,walker-walk,2650000.0,977.7951049804688,1
+DCWM w/ reconstruction,walker-walk,2675000.0,971.4957275390624,1
+DCWM w/ reconstruction,walker-walk,0.0,35.19001388549805,2
+DCWM w/ reconstruction,walker-walk,25000.0,99.17940521240234,2
+DCWM w/ reconstruction,walker-walk,50000.0,619.72900390625,2
+DCWM w/ reconstruction,walker-walk,75000.0,934.7400512695312,2
+DCWM w/ reconstruction,walker-walk,100000.0,947.4892578125,2
+DCWM w/ reconstruction,walker-walk,125000.0,964.7810668945312,2
+DCWM w/ reconstruction,walker-walk,150000.0,957.3323364257812,2
+DCWM w/ reconstruction,walker-walk,175000.0,968.0323486328124,2
+DCWM w/ reconstruction,walker-walk,200000.0,966.0696411132812,2
+DCWM w/ reconstruction,walker-walk,225000.0,962.3733520507812,2
+DCWM w/ reconstruction,walker-walk,250000.0,970.6273803710938,2
+DCWM w/ reconstruction,walker-walk,275000.0,975.5789184570312,2
+DCWM w/ reconstruction,walker-walk,300000.0,968.2451171875,2
+DCWM w/ reconstruction,walker-walk,325000.0,969.3796997070312,2
+DCWM w/ reconstruction,walker-walk,350000.0,967.5396728515624,2
+DCWM w/ reconstruction,walker-walk,375000.0,971.5797119140624,2
+DCWM w/ reconstruction,walker-walk,400000.0,974.1064453125,2
+DCWM w/ reconstruction,walker-walk,425000.0,969.3494262695312,2
+DCWM w/ reconstruction,walker-walk,450000.0,974.6654663085938,2
+DCWM w/ reconstruction,walker-walk,475000.0,974.5652465820312,2
+DCWM w/ reconstruction,walker-walk,500000.0,979.8977661132812,2
+DCWM w/ reconstruction,walker-walk,525000.0,974.1505737304688,2
+DCWM w/ reconstruction,walker-walk,550000.0,975.5807495117188,2
+DCWM w/ reconstruction,walker-walk,575000.0,979.2156372070312,2
+DCWM w/ reconstruction,walker-walk,600000.0,980.1808471679688,2
+DCWM w/ reconstruction,walker-walk,625000.0,974.9994506835938,2
+DCWM w/ reconstruction,walker-walk,650000.0,984.3646850585938,2
+DCWM w/ reconstruction,walker-walk,675000.0,979.2742309570312,2
+DCWM w/ reconstruction,walker-walk,700000.0,980.45263671875,2
+DCWM w/ reconstruction,walker-walk,725000.0,974.6644897460938,2
+DCWM w/ reconstruction,walker-walk,750000.0,972.7760620117188,2
+DCWM w/ reconstruction,walker-walk,775000.0,974.7830200195312,2
+DCWM w/ reconstruction,walker-walk,800000.0,969.9660034179688,2
+DCWM w/ reconstruction,walker-walk,825000.0,975.0812377929688,2
+DCWM w/ reconstruction,walker-walk,850000.0,971.298828125,2
+DCWM w/ reconstruction,walker-walk,875000.0,981.591796875,2
+DCWM w/ reconstruction,walker-walk,900000.0,980.9990234375,2
+DCWM w/ reconstruction,walker-walk,925000.0,974.7003784179688,2
+DCWM w/ reconstruction,walker-walk,950000.0,979.3562622070312,2
+DCWM w/ reconstruction,walker-walk,975000.0,977.2470703125,2
+DCWM w/ reconstruction,walker-walk,1000000.0,980.6603393554688,2
+DCWM w/ reconstruction,walker-walk,1025000.0,981.6508178710938,2
+DCWM w/ reconstruction,walker-walk,1050000.0,975.8204956054688,2
+DCWM w/ reconstruction,walker-walk,1075000.0,969.0845947265624,2
+DCWM w/ reconstruction,walker-walk,1100000.0,980.7322387695312,2
+DCWM w/ reconstruction,walker-walk,1125000.0,969.0314331054688,2
+DCWM w/ reconstruction,walker-walk,1150000.0,978.2740478515624,2
+DCWM w/ reconstruction,walker-walk,1175000.0,984.3994140625,2
+DCWM w/ reconstruction,walker-walk,1200000.0,971.7691650390624,2
+DCWM w/ reconstruction,walker-walk,1225000.0,979.6142578125,2
+DCWM w/ reconstruction,walker-walk,1250000.0,981.9097900390624,2
+DCWM w/ reconstruction,walker-walk,1275000.0,978.2076416015624,2
+DCWM w/ reconstruction,walker-walk,1300000.0,972.7527465820312,2
+DCWM w/ reconstruction,walker-walk,1325000.0,977.0271606445312,2
+DCWM w/ reconstruction,walker-walk,1350000.0,978.4345703125,2
+DCWM w/ reconstruction,walker-walk,1375000.0,976.2328491210938,2
+DCWM w/ reconstruction,walker-walk,1400000.0,973.3300170898438,2
+DCWM w/ reconstruction,walker-walk,1425000.0,987.1484375,2
+DCWM w/ reconstruction,walker-walk,1450000.0,980.16259765625,2
+DCWM w/ reconstruction,walker-walk,1475000.0,977.3148803710938,2
+DCWM w/ reconstruction,walker-walk,1500000.0,977.54736328125,2
+DCWM w/ reconstruction,walker-walk,1525000.0,978.9421997070312,2
+DCWM w/ reconstruction,walker-walk,1550000.0,976.7996215820312,2
+DCWM w/ reconstruction,walker-walk,1575000.0,973.04736328125,2
+DCWM w/ reconstruction,walker-walk,1600000.0,980.9697265625,2
+DCWM w/ reconstruction,walker-walk,1625000.0,982.2942504882812,2
+DCWM w/ reconstruction,walker-walk,1650000.0,985.2318725585938,2
+DCWM w/ reconstruction,walker-walk,1675000.0,981.7344970703124,2
+DCWM w/ reconstruction,walker-walk,1700000.0,979.9939575195312,2
+DCWM w/ reconstruction,walker-walk,1725000.0,981.9633178710938,2
+DCWM w/ reconstruction,walker-walk,1750000.0,982.86669921875,2
+DCWM w/ reconstruction,walker-walk,1775000.0,978.7162475585938,2
+DCWM w/ reconstruction,walker-walk,1800000.0,978.42822265625,2
+DCWM w/ reconstruction,walker-walk,1825000.0,982.9708862304688,2
+DCWM w/ reconstruction,walker-walk,1850000.0,974.8768920898438,2
+DCWM w/ reconstruction,walker-walk,1875000.0,975.1056518554688,2
+DCWM w/ reconstruction,walker-walk,1900000.0,982.1339721679688,2
+DCWM w/ reconstruction,walker-walk,1925000.0,981.5197143554688,2
+DCWM w/ reconstruction,walker-walk,1950000.0,976.2320556640624,2
+DCWM w/ reconstruction,walker-walk,1975000.0,975.7318725585938,2
+DCWM w/ reconstruction,walker-walk,2000000.0,978.9949340820312,2
+DCWM w/ reconstruction,walker-walk,2025000.0,976.0279541015624,2
+DCWM w/ reconstruction,walker-walk,2050000.0,982.93212890625,2
+DCWM w/ reconstruction,walker-walk,2075000.0,977.8624877929688,2
+DCWM w/ reconstruction,walker-walk,2100000.0,976.6762084960938,2
+DCWM w/ reconstruction,walker-walk,2125000.0,983.9293212890624,2
+DCWM w/ reconstruction,walker-walk,2150000.0,978.0079956054688,2
+DCWM w/ reconstruction,walker-walk,2175000.0,978.1103515625,2
+DCWM w/ reconstruction,walker-walk,2200000.0,980.90673828125,2
+DCWM w/ reconstruction,walker-walk,2225000.0,978.0514526367188,2
+DCWM w/ reconstruction,walker-walk,2250000.0,982.8041381835938,2
+DCWM w/ reconstruction,walker-walk,2275000.0,982.9967041015624,2
+DCWM w/ reconstruction,walker-walk,2300000.0,983.2047119140624,2
+DCWM w/ reconstruction,walker-walk,2325000.0,976.4758911132812,2
+DCWM w/ reconstruction,walker-walk,2350000.0,979.9935913085938,2
+DCWM w/ reconstruction,walker-walk,2375000.0,981.1369018554688,2
+DCWM w/ reconstruction,walker-walk,2400000.0,983.0535278320312,2
+DCWM w/ reconstruction,walker-walk,2425000.0,974.8245239257812,2
+DCWM w/ reconstruction,walker-walk,2450000.0,976.7780151367188,2
+DCWM w/ reconstruction,walker-walk,0.0,46.72112655639648,3
+DCWM w/ reconstruction,walker-walk,25000.0,183.33103942871097,3
+DCWM w/ reconstruction,walker-walk,50000.0,517.3165893554688,3
+DCWM w/ reconstruction,walker-walk,75000.0,854.7039184570312,3
+DCWM w/ reconstruction,walker-walk,100000.0,941.9298706054688,3
+DCWM w/ reconstruction,walker-walk,125000.0,949.6845703125,3
+DCWM w/ reconstruction,walker-walk,150000.0,963.0435791015624,3
+DCWM w/ reconstruction,walker-walk,175000.0,971.0896606445312,3
+DCWM w/ reconstruction,walker-walk,200000.0,974.0814819335938,3
+DCWM w/ reconstruction,walker-walk,225000.0,970.3943481445312,3
+DCWM w/ reconstruction,walker-walk,250000.0,970.5068359375,3
+DCWM w/ reconstruction,walker-walk,275000.0,973.8233642578124,3
+DCWM w/ reconstruction,walker-walk,300000.0,966.7706298828124,3
+DCWM w/ reconstruction,walker-walk,325000.0,970.2177124023438,3
+DCWM w/ reconstruction,walker-walk,350000.0,976.4822387695312,3
+DCWM w/ reconstruction,walker-walk,375000.0,972.18212890625,3
+DCWM w/ reconstruction,walker-walk,400000.0,975.2462768554688,3
+DCWM w/ reconstruction,walker-walk,425000.0,967.9984741210938,3
+DCWM w/ reconstruction,walker-walk,450000.0,958.1837768554688,3
+DCWM w/ reconstruction,walker-walk,475000.0,969.6920166015624,3
+DCWM w/ reconstruction,walker-walk,500000.0,970.7316284179688,3
+DCWM w/ reconstruction,walker-walk,525000.0,977.1150512695312,3
+DCWM w/ reconstruction,walker-walk,550000.0,968.4597778320312,3
+DCWM w/ reconstruction,walker-walk,575000.0,971.8004150390624,3
+DCWM w/ reconstruction,walker-walk,600000.0,967.5997924804688,3
+DCWM w/ reconstruction,walker-walk,625000.0,979.3412475585938,3
+DCWM w/ reconstruction,walker-walk,650000.0,975.2516479492188,3
+DCWM w/ reconstruction,walker-walk,675000.0,980.5372924804688,3
+DCWM w/ reconstruction,walker-walk,700000.0,974.9046020507812,3
+DCWM w/ reconstruction,walker-walk,725000.0,975.94189453125,3
+DCWM w/ reconstruction,walker-walk,750000.0,976.7323608398438,3
+DCWM w/ reconstruction,walker-walk,775000.0,977.2395629882812,3
+DCWM w/ reconstruction,walker-walk,800000.0,973.5263671875,3
+DCWM w/ reconstruction,walker-walk,825000.0,974.6656494140624,3
+DCWM w/ reconstruction,walker-walk,850000.0,980.2105712890624,3
+DCWM w/ reconstruction,walker-walk,875000.0,981.4395751953124,3
+DCWM w/ reconstruction,walker-walk,900000.0,971.3717041015624,3
+DCWM w/ reconstruction,walker-walk,925000.0,974.10888671875,3
+DCWM w/ reconstruction,walker-walk,950000.0,975.7351684570312,3
+DCWM w/ reconstruction,walker-walk,975000.0,979.9853515625,3
+DCWM w/ reconstruction,walker-walk,1000000.0,978.8971557617188,3
+DCWM w/ reconstruction,walker-walk,1025000.0,980.2218627929688,3
+DCWM w/ reconstruction,walker-walk,1050000.0,972.3865356445312,3
+DCWM w/ reconstruction,walker-walk,1075000.0,980.7843627929688,3
+DCWM w/ reconstruction,walker-walk,1100000.0,978.3295288085938,3
+DCWM w/ reconstruction,walker-walk,1125000.0,974.5386962890624,3
+DCWM w/ reconstruction,walker-walk,1150000.0,980.2494506835938,3
+DCWM w/ reconstruction,walker-walk,1175000.0,973.5697631835938,3
+DCWM w/ reconstruction,walker-walk,1200000.0,981.2042846679688,3
+DCWM w/ reconstruction,walker-walk,1225000.0,978.6163330078124,3
+DCWM w/ reconstruction,walker-walk,1250000.0,976.3943481445312,3
+DCWM w/ reconstruction,walker-walk,1275000.0,981.9660034179688,3
+DCWM w/ reconstruction,walker-walk,1300000.0,972.43212890625,3
+DCWM w/ reconstruction,walker-walk,1325000.0,975.2413330078124,3
+DCWM w/ reconstruction,walker-walk,1350000.0,984.4035034179688,3
+DCWM w/ reconstruction,walker-walk,1375000.0,978.4661254882812,3
+DCWM w/ reconstruction,walker-walk,1400000.0,976.4490356445312,3
+DCWM w/ reconstruction,walker-walk,1425000.0,981.7509765625,3
+DCWM w/ reconstruction,walker-walk,1450000.0,976.57861328125,3
+DCWM w/ reconstruction,walker-walk,1475000.0,978.6310424804688,3
+DCWM w/ reconstruction,walker-walk,1500000.0,986.2335205078124,3
+DCWM w/ reconstruction,walker-walk,1525000.0,974.9948120117188,3
+DCWM w/ reconstruction,walker-walk,1550000.0,970.04296875,3
+DCWM w/ reconstruction,walker-walk,1575000.0,973.5007934570312,3
+DCWM w/ reconstruction,walker-walk,1600000.0,975.6635131835938,3
+DCWM w/ reconstruction,walker-walk,1625000.0,972.7269897460938,3
+DCWM w/ reconstruction,walker-walk,1650000.0,981.2400512695312,3
+DCWM w/ reconstruction,walker-walk,1675000.0,974.2115478515624,3
+DCWM w/ reconstruction,walker-walk,1700000.0,978.3727416992188,3
+DCWM w/ reconstruction,walker-walk,1725000.0,980.1000366210938,3
+DCWM w/ reconstruction,walker-walk,1750000.0,978.7249145507812,3
+DCWM w/ reconstruction,walker-walk,1775000.0,981.0978393554688,3
+DCWM w/ reconstruction,walker-walk,1800000.0,982.3330078125,3
+DCWM w/ reconstruction,walker-walk,1825000.0,979.0855712890624,3
+DCWM w/ reconstruction,walker-walk,1850000.0,983.2780151367188,3
+DCWM w/ reconstruction,walker-walk,1875000.0,970.8363647460938,3
+DCWM w/ reconstruction,walker-walk,1900000.0,974.0206909179688,3
+DCWM w/ reconstruction,walker-walk,1925000.0,982.9423828125,3
+DCWM w/ reconstruction,walker-walk,1950000.0,981.318359375,3
+DCWM w/ reconstruction,walker-walk,1975000.0,974.1583862304688,3
+DCWM w/ reconstruction,walker-walk,2000000.0,976.7504272460938,3
+DCWM w/ reconstruction,walker-walk,2025000.0,980.9515991210938,3
+DCWM w/ reconstruction,walker-walk,2050000.0,979.6530151367188,3
+DCWM w/ reconstruction,walker-walk,2075000.0,974.8224487304688,3
+DCWM w/ reconstruction,walker-walk,2100000.0,975.5421752929688,3
+DCWM w/ reconstruction,walker-walk,2125000.0,975.9929809570312,3
+DCWM w/ reconstruction,walker-walk,2150000.0,973.4373168945312,3
+DCWM w/ reconstruction,walker-walk,2175000.0,977.4910278320312,3
+DCWM w/ reconstruction,walker-walk,2200000.0,983.3792114257812,3
+DCWM w/ reconstruction,walker-walk,2225000.0,976.9552612304688,3
+DCWM w/ reconstruction,walker-walk,2250000.0,983.8767700195312,3
+DCWM w/ reconstruction,walker-walk,2275000.0,973.4058837890624,3
+DCWM w/ reconstruction,walker-walk,2300000.0,982.8154296875,3
+DCWM w/ reconstruction,walker-walk,2325000.0,974.5836181640624,3
+DCWM w/ reconstruction,walker-walk,2350000.0,979.5433959960938,3
+DCWM w/ reconstruction,walker-walk,2375000.0,980.1953125,3
+DCWM w/ reconstruction,walker-walk,2400000.0,977.5896606445312,3
+DCWM w/ reconstruction,walker-walk,2425000.0,979.4386596679688,3
+DCWM w/ reconstruction,walker-walk,2450000.0,978.5504760742188,3
+DCWM w/ reconstruction,walker-walk,2475000.0,976.1876831054688,3
+DCWM w/ reconstruction,walker-walk,2500000.0,976.1596069335938,3
+DCWM w/ reconstruction,walker-walk,2525000.0,985.0318603515624,3
+DCWM w/ reconstruction,walker-walk,2550000.0,983.8870239257812,3
+DCWM w/ reconstruction,walker-walk,2575000.0,980.8937377929688,3
+DCWM w/ reconstruction,walker-walk,2600000.0,983.7048950195312,3
+DCWM w/ reconstruction,humanoid-walk,0.0,1.4738965034484863,1
+DCWM w/ reconstruction,humanoid-walk,25000.0,1.459713339805603,1
+DCWM w/ reconstruction,humanoid-walk,50000.0,0.8619821667671204,1
+DCWM w/ reconstruction,humanoid-walk,75000.0,1.5409605503082275,1
+DCWM w/ reconstruction,humanoid-walk,100000.0,1.436888337135315,1
+DCWM w/ reconstruction,humanoid-walk,125000.0,1.187179446220398,1
+DCWM w/ reconstruction,humanoid-walk,150000.0,1.369319200515747,1
+DCWM w/ reconstruction,humanoid-walk,175000.0,1.3559536933898926,1
+DCWM w/ reconstruction,humanoid-walk,200000.0,1.4096453189849854,1
+DCWM w/ reconstruction,humanoid-walk,225000.0,1.5112413167953491,1
+DCWM w/ reconstruction,humanoid-walk,250000.0,1.1703250408172607,1
+DCWM w/ reconstruction,humanoid-walk,275000.0,1.4042457342147827,1
+DCWM w/ reconstruction,humanoid-walk,300000.0,1.2887738943099976,1
+DCWM w/ reconstruction,humanoid-walk,325000.0,1.7958236932754517,1
+DCWM w/ reconstruction,humanoid-walk,350000.0,1.2871843576431274,1
+DCWM w/ reconstruction,humanoid-walk,375000.0,1.0825284719467163,1
+DCWM w/ reconstruction,humanoid-walk,400000.0,2.1013944149017334,1
+DCWM w/ reconstruction,humanoid-walk,425000.0,1.013898253440857,1
+DCWM w/ reconstruction,humanoid-walk,450000.0,1.8234939575195312,1
+DCWM w/ reconstruction,humanoid-walk,475000.0,1.2556742429733276,1
+DCWM w/ reconstruction,humanoid-walk,500000.0,1.302502155303955,1
+DCWM w/ reconstruction,humanoid-walk,525000.0,1.847243905067444,1
+DCWM w/ reconstruction,humanoid-walk,550000.0,1.4692981243133545,1
+DCWM w/ reconstruction,humanoid-walk,575000.0,1.608292818069458,1
+DCWM w/ reconstruction,humanoid-walk,600000.0,1.3512543439865112,1
+DCWM w/ reconstruction,humanoid-walk,625000.0,1.3079839944839478,1
+DCWM w/ reconstruction,humanoid-walk,650000.0,1.7267414331436155,1
+DCWM w/ reconstruction,humanoid-walk,675000.0,1.821200609207153,1
+DCWM w/ reconstruction,humanoid-walk,700000.0,1.4486249685287476,1
+DCWM w/ reconstruction,humanoid-walk,725000.0,1.716701865196228,1
+DCWM w/ reconstruction,humanoid-walk,750000.0,0.9993502497673036,1
+DCWM w/ reconstruction,humanoid-walk,775000.0,1.2791283130645752,1
+DCWM w/ reconstruction,humanoid-walk,800000.0,1.4951475858688354,1
+DCWM w/ reconstruction,humanoid-walk,825000.0,1.3055862188339231,1
+DCWM w/ reconstruction,humanoid-walk,850000.0,1.2221208810806274,1
+DCWM w/ reconstruction,humanoid-walk,875000.0,1.1325135231018066,1
+DCWM w/ reconstruction,humanoid-walk,900000.0,1.6784542798995972,1
+DCWM w/ reconstruction,humanoid-walk,925000.0,1.8215702772140503,1
+DCWM w/ reconstruction,humanoid-walk,950000.0,1.6823090314865112,1
+DCWM w/ reconstruction,humanoid-walk,975000.0,1.519874930381775,1
+DCWM w/ reconstruction,humanoid-walk,1000000.0,2.0398011207580566,1
+DCWM w/ reconstruction,humanoid-walk,1025000.0,1.8114174604415896,1
+DCWM w/ reconstruction,humanoid-walk,1050000.0,1.707849144935608,1
+DCWM w/ reconstruction,humanoid-walk,1075000.0,1.0129512548446655,1
+DCWM w/ reconstruction,humanoid-walk,1100000.0,1.4941900968551636,1
+DCWM w/ reconstruction,humanoid-walk,1125000.0,2.172374725341797,1
+DCWM w/ reconstruction,humanoid-walk,1150000.0,1.4772231578826904,1
+DCWM w/ reconstruction,humanoid-walk,1175000.0,1.4310598373413086,1
+DCWM w/ reconstruction,humanoid-walk,1200000.0,1.2072418928146362,1
+DCWM w/ reconstruction,humanoid-walk,1225000.0,1.469487547874451,1
+DCWM w/ reconstruction,humanoid-walk,1250000.0,1.2363096475601196,1
+DCWM w/ reconstruction,humanoid-walk,1275000.0,1.589699625968933,1
+DCWM w/ reconstruction,humanoid-walk,1300000.0,0.9189261794090272,1
+DCWM w/ reconstruction,humanoid-walk,1325000.0,1.5434733629226685,1
+DCWM w/ reconstruction,humanoid-walk,1350000.0,1.6079829931259155,1
+DCWM w/ reconstruction,humanoid-walk,1375000.0,1.2762476205825806,1
+DCWM w/ reconstruction,humanoid-walk,1400000.0,1.3985430002212524,1
+DCWM w/ reconstruction,humanoid-walk,1425000.0,1.6507961750030518,1
+DCWM w/ reconstruction,humanoid-walk,1450000.0,1.169493317604065,1
+DCWM w/ reconstruction,humanoid-walk,1475000.0,1.7166260480880735,1
+DCWM w/ reconstruction,humanoid-walk,1500000.0,1.1439590454101562,1
+DCWM w/ reconstruction,humanoid-walk,1525000.0,1.165012001991272,1
+DCWM w/ reconstruction,humanoid-walk,1550000.0,1.379383206367493,1
+DCWM w/ reconstruction,humanoid-walk,1575000.0,1.163545846939087,1
+DCWM w/ reconstruction,humanoid-walk,1600000.0,1.096835970878601,1
+DCWM w/ reconstruction,humanoid-walk,1625000.0,1.5079808235168457,1
+DCWM w/ reconstruction,humanoid-walk,1650000.0,1.7451393604278564,1
+DCWM w/ reconstruction,humanoid-walk,1675000.0,1.1113238334655762,1
+DCWM w/ reconstruction,humanoid-walk,1700000.0,1.9505888223648071,1
+DCWM w/ reconstruction,humanoid-walk,1725000.0,1.4498628377914429,1
+DCWM w/ reconstruction,humanoid-walk,1750000.0,1.8459608554840088,1
+DCWM w/ reconstruction,humanoid-walk,1775000.0,1.377325415611267,1
+DCWM w/ reconstruction,humanoid-walk,1800000.0,1.2757576704025269,1
+DCWM w/ reconstruction,humanoid-walk,1825000.0,1.385417938232422,1
+DCWM w/ reconstruction,humanoid-walk,1850000.0,1.904511332511902,1
+DCWM w/ reconstruction,humanoid-walk,1875000.0,6.23431396484375,1
+DCWM w/ reconstruction,humanoid-walk,1900000.0,6.586891174316406,1
+DCWM w/ reconstruction,humanoid-walk,1925000.0,7.692368507385254,1
+DCWM w/ reconstruction,humanoid-walk,1950000.0,8.160578727722168,1
+DCWM w/ reconstruction,humanoid-walk,1975000.0,15.452333450317385,1
+DCWM w/ reconstruction,humanoid-walk,2000000.0,30.412952423095703,1
+DCWM w/ reconstruction,humanoid-walk,2025000.0,51.36715316772461,1
+DCWM w/ reconstruction,humanoid-walk,2050000.0,42.71574783325195,1
+DCWM w/ reconstruction,humanoid-walk,2075000.0,60.1895866394043,1
+DCWM w/ reconstruction,humanoid-walk,2100000.0,119.86678314208984,1
+DCWM w/ reconstruction,humanoid-walk,0.0,1.0420538187026978,2
+DCWM w/ reconstruction,humanoid-walk,25000.0,0.9910642504692078,2
+DCWM w/ reconstruction,humanoid-walk,50000.0,1.4402682781219482,2
+DCWM w/ reconstruction,humanoid-walk,75000.0,1.252777338027954,2
+DCWM w/ reconstruction,humanoid-walk,100000.0,0.7045482397079468,2
+DCWM w/ reconstruction,humanoid-walk,125000.0,1.754790186882019,2
+DCWM w/ reconstruction,humanoid-walk,150000.0,1.3491452932357788,2
+DCWM w/ reconstruction,humanoid-walk,175000.0,1.019314527511597,2
+DCWM w/ reconstruction,humanoid-walk,200000.0,1.1866577863693235,2
+DCWM w/ reconstruction,humanoid-walk,225000.0,0.6005424857139587,2
+DCWM w/ reconstruction,humanoid-walk,250000.0,1.4172005653381348,2
+DCWM w/ reconstruction,humanoid-walk,275000.0,0.997808277606964,2
+DCWM w/ reconstruction,humanoid-walk,300000.0,0.9903411865234376,2
+DCWM w/ reconstruction,humanoid-walk,325000.0,0.8889738321304321,2
+DCWM w/ reconstruction,humanoid-walk,350000.0,1.4810149669647217,2
+DCWM w/ reconstruction,humanoid-walk,375000.0,0.9226450324058532,2
+DCWM w/ reconstruction,humanoid-walk,400000.0,1.388611078262329,2
+DCWM w/ reconstruction,humanoid-walk,425000.0,1.790639877319336,2
+DCWM w/ reconstruction,humanoid-walk,450000.0,1.11761474609375,2
+DCWM w/ reconstruction,humanoid-walk,475000.0,2.380167245864868,2
+DCWM w/ reconstruction,humanoid-walk,500000.0,2.111234188079834,2
+DCWM w/ reconstruction,humanoid-walk,525000.0,2.1883137226104736,2
+DCWM w/ reconstruction,humanoid-walk,550000.0,1.5194199085235596,2
+DCWM w/ reconstruction,humanoid-walk,575000.0,1.9775390625,2
+DCWM w/ reconstruction,humanoid-walk,600000.0,1.1759980916976929,2
+DCWM w/ reconstruction,humanoid-walk,625000.0,1.3159011602401731,2
+DCWM w/ reconstruction,humanoid-walk,650000.0,1.1528068780899048,2
+DCWM w/ reconstruction,humanoid-walk,675000.0,1.6125783920288086,2
+DCWM w/ reconstruction,humanoid-walk,700000.0,0.9752088785171508,2
+DCWM w/ reconstruction,humanoid-walk,725000.0,0.94839346408844,2
+DCWM w/ reconstruction,humanoid-walk,750000.0,1.2787145376205444,2
+DCWM w/ reconstruction,humanoid-walk,775000.0,1.046126365661621,2
+DCWM w/ reconstruction,humanoid-walk,800000.0,0.860339343547821,2
+DCWM w/ reconstruction,humanoid-walk,825000.0,1.0236854553222656,2
+DCWM w/ reconstruction,humanoid-walk,850000.0,1.0849571228027344,2
+DCWM w/ reconstruction,humanoid-walk,875000.0,1.431667685508728,2
+DCWM w/ reconstruction,humanoid-walk,900000.0,10.62277603149414,2
+DCWM w/ reconstruction,humanoid-walk,925000.0,58.05489730834961,2
+DCWM w/ reconstruction,humanoid-walk,950000.0,76.88643646240234,2
+DCWM w/ reconstruction,humanoid-walk,975000.0,117.0858383178711,2
+DCWM w/ reconstruction,humanoid-walk,1000000.0,153.4130096435547,2
+DCWM w/ reconstruction,humanoid-walk,1025000.0,157.7827606201172,2
+DCWM w/ reconstruction,humanoid-walk,1050000.0,180.3946075439453,2
+DCWM w/ reconstruction,humanoid-walk,1075000.0,193.9444274902344,2
+DCWM w/ reconstruction,humanoid-walk,1100000.0,154.5050506591797,2
+DCWM w/ reconstruction,humanoid-walk,1125000.0,192.13623046875,2
+DCWM w/ reconstruction,humanoid-walk,1150000.0,224.5877990722656,2
+DCWM w/ reconstruction,humanoid-walk,1175000.0,280.31329345703125,2
+DCWM w/ reconstruction,humanoid-walk,1200000.0,347.1014099121094,2
+DCWM w/ reconstruction,humanoid-walk,1225000.0,336.3014221191406,2
+DCWM w/ reconstruction,humanoid-walk,1250000.0,397.4945068359375,2
+DCWM w/ reconstruction,humanoid-walk,1275000.0,403.5243835449219,2
+DCWM w/ reconstruction,humanoid-walk,1300000.0,430.50146484375,2
+DCWM w/ reconstruction,humanoid-walk,1325000.0,421.35552978515625,2
+DCWM w/ reconstruction,humanoid-walk,1350000.0,472.2184143066406,2
+DCWM w/ reconstruction,humanoid-walk,1375000.0,451.8810729980469,2
+DCWM w/ reconstruction,humanoid-walk,1400000.0,475.9484558105469,2
+DCWM w/ reconstruction,humanoid-walk,1425000.0,465.3400573730469,2
+DCWM w/ reconstruction,humanoid-walk,1450000.0,492.29150390625,2
+DCWM w/ reconstruction,humanoid-walk,1475000.0,453.2221374511719,2
+DCWM w/ reconstruction,humanoid-walk,1500000.0,463.3091735839844,2
+DCWM w/ reconstruction,humanoid-walk,1525000.0,508.5199890136719,2
+DCWM w/ reconstruction,humanoid-walk,1550000.0,514.60302734375,2
+DCWM w/ reconstruction,humanoid-walk,1575000.0,582.0480346679688,2
+DCWM w/ reconstruction,humanoid-walk,1600000.0,642.8441772460938,2
+DCWM w/ reconstruction,humanoid-walk,1625000.0,635.364990234375,2
+DCWM w/ reconstruction,humanoid-walk,1650000.0,696.7720947265625,2
+DCWM w/ reconstruction,humanoid-walk,1675000.0,755.605712890625,2
+DCWM w/ reconstruction,humanoid-walk,1700000.0,757.376220703125,2
+DCWM w/ reconstruction,humanoid-walk,1725000.0,791.5193481445312,2
+DCWM w/ reconstruction,humanoid-walk,1750000.0,825.9848022460938,2
+DCWM w/ reconstruction,humanoid-walk,1775000.0,826.5607299804688,2
+DCWM w/ reconstruction,humanoid-walk,1800000.0,837.2958984375,2
+DCWM w/ reconstruction,humanoid-walk,1825000.0,816.9974975585938,2
+DCWM w/ reconstruction,humanoid-walk,1850000.0,839.8258056640625,2
+DCWM w/ reconstruction,humanoid-walk,1875000.0,841.4678955078125,2
+DCWM w/ reconstruction,humanoid-walk,1900000.0,837.685546875,2
+DCWM w/ reconstruction,humanoid-walk,1925000.0,837.4660034179688,2
+DCWM w/ reconstruction,humanoid-walk,1950000.0,849.837890625,2
+DCWM w/ reconstruction,humanoid-walk,1975000.0,845.1901245117188,2
+DCWM w/ reconstruction,humanoid-walk,2000000.0,850.4635620117188,2
+DCWM w/ reconstruction,humanoid-walk,2025000.0,857.2853393554688,2
+DCWM w/ reconstruction,humanoid-walk,2050000.0,859.9974975585938,2
+DCWM w/ reconstruction,humanoid-walk,2075000.0,852.4574584960938,2
+DCWM w/ reconstruction,humanoid-walk,2100000.0,871.3489379882812,2
+DCWM w/ reconstruction,humanoid-walk,0.0,0.8821880221366882,3
+DCWM w/ reconstruction,humanoid-walk,25000.0,1.3994524478912354,3
+DCWM w/ reconstruction,humanoid-walk,50000.0,1.0991889238357544,3
+DCWM w/ reconstruction,humanoid-walk,75000.0,1.4108879566192627,3
+DCWM w/ reconstruction,humanoid-walk,100000.0,1.310028314590454,3
+DCWM w/ reconstruction,humanoid-walk,125000.0,1.6738989353179932,3
+DCWM w/ reconstruction,humanoid-walk,150000.0,1.2157433032989502,3
+DCWM w/ reconstruction,humanoid-walk,175000.0,1.1291760206222534,3
+DCWM w/ reconstruction,humanoid-walk,200000.0,1.647684931755066,3
+DCWM w/ reconstruction,humanoid-walk,225000.0,1.2654058933258057,3
+DCWM w/ reconstruction,humanoid-walk,250000.0,1.2904882431030271,3
+DCWM w/ reconstruction,humanoid-walk,275000.0,1.6215578317642212,3
+DCWM w/ reconstruction,humanoid-walk,300000.0,1.423009753227234,3
+DCWM w/ reconstruction,humanoid-walk,325000.0,1.4896067380905151,3
+DCWM w/ reconstruction,humanoid-walk,350000.0,1.1561784744262695,3
+DCWM w/ reconstruction,humanoid-walk,375000.0,1.5323123931884766,3
+DCWM w/ reconstruction,humanoid-walk,400000.0,1.7984026670455933,3
+DCWM w/ reconstruction,humanoid-walk,425000.0,1.5590425729751587,3
+DCWM w/ reconstruction,humanoid-walk,450000.0,1.447001338005066,3
+DCWM w/ reconstruction,humanoid-walk,475000.0,1.3619972467422483,3
+DCWM w/ reconstruction,humanoid-walk,500000.0,2.0591094493865967,3
+DCWM w/ reconstruction,humanoid-walk,525000.0,1.145480990409851,3
+DCWM w/ reconstruction,humanoid-walk,550000.0,1.797127604484558,3
+DCWM w/ reconstruction,humanoid-walk,575000.0,1.4317928552627563,3
+DCWM w/ reconstruction,humanoid-walk,600000.0,1.3420569896697998,3
+DCWM w/ reconstruction,humanoid-walk,625000.0,2.054394245147705,3
+DCWM w/ reconstruction,humanoid-walk,650000.0,1.5889049768447876,3
+DCWM w/ reconstruction,humanoid-walk,675000.0,1.283106803894043,3
+DCWM w/ reconstruction,humanoid-walk,700000.0,2.972008466720581,3
+DCWM w/ reconstruction,humanoid-walk,725000.0,1.3470185995101929,3
+DCWM w/ reconstruction,humanoid-walk,750000.0,2.0092289447784424,3
+DCWM w/ reconstruction,humanoid-walk,775000.0,1.6361957788467407,3
+DCWM w/ reconstruction,humanoid-walk,800000.0,1.5973553657531738,3
+DCWM w/ reconstruction,humanoid-walk,825000.0,1.860540747642517,3
+DCWM w/ reconstruction,humanoid-walk,850000.0,1.6950534582138062,3
+DCWM w/ reconstruction,humanoid-walk,875000.0,1.8164829015731812,3
+DCWM w/ reconstruction,humanoid-walk,900000.0,1.6687688827514648,3
+DCWM w/ reconstruction,humanoid-walk,925000.0,1.6297584772109983,3
+DCWM w/ reconstruction,humanoid-walk,950000.0,1.3668899536132812,3
+DCWM w/ reconstruction,humanoid-walk,975000.0,1.8813389539718628,3
+DCWM w/ reconstruction,humanoid-walk,1000000.0,1.8071564435958865,3
+DCWM w/ reconstruction,humanoid-walk,1025000.0,1.9817689657211304,3
+DCWM w/ reconstruction,humanoid-walk,1050000.0,1.971116304397583,3
+DCWM w/ reconstruction,humanoid-walk,1075000.0,1.5767936706542969,3
+DCWM w/ reconstruction,humanoid-walk,1100000.0,1.4598839282989502,3
+DCWM w/ reconstruction,humanoid-walk,1125000.0,2.088193893432617,3
+DCWM w/ reconstruction,humanoid-walk,1150000.0,1.457982063293457,3
+DCWM w/ reconstruction,humanoid-walk,1175000.0,1.713027834892273,3
+DCWM w/ reconstruction,humanoid-walk,1200000.0,1.5792999267578125,3
+DCWM w/ reconstruction,humanoid-walk,1225000.0,1.8610126972198489,3
+DCWM w/ reconstruction,humanoid-walk,1250000.0,1.7616684436798096,3
+DCWM w/ reconstruction,humanoid-walk,1275000.0,2.298767328262329,3
+DCWM w/ reconstruction,humanoid-walk,1300000.0,1.5502418279647827,3
+DCWM w/ reconstruction,humanoid-walk,1325000.0,1.8826769590377808,3
+DCWM w/ reconstruction,humanoid-walk,1350000.0,1.7271980047225952,3
+DCWM w/ reconstruction,humanoid-walk,1375000.0,2.8843040466308594,3
+DCWM w/ reconstruction,humanoid-walk,1400000.0,1.484865427017212,3
+DCWM w/ reconstruction,humanoid-walk,1425000.0,1.9316272735595703,3
+DCWM w/ reconstruction,humanoid-walk,1450000.0,2.1599183082580566,3
+DCWM w/ reconstruction,humanoid-walk,1475000.0,1.598165512084961,3
+DCWM w/ reconstruction,humanoid-walk,1500000.0,1.559897541999817,3
+DCWM w/ reconstruction,humanoid-walk,1525000.0,1.6962107419967651,3
+DCWM w/ reconstruction,humanoid-walk,1550000.0,1.866794466972351,3
+DCWM w/ reconstruction,humanoid-walk,1575000.0,1.5570348501205444,3
+DCWM w/ reconstruction,humanoid-walk,1600000.0,1.2668813467025757,3
+DCWM w/ reconstruction,humanoid-walk,1625000.0,1.3546156883239746,3
+DCWM w/ reconstruction,humanoid-walk,1650000.0,1.5157474279403689,3
+DCWM w/ reconstruction,humanoid-walk,1675000.0,1.2525209188461304,3
+DCWM w/ reconstruction,humanoid-walk,1700000.0,1.6021372079849243,3
+DCWM w/ reconstruction,humanoid-walk,1725000.0,2.013362169265747,3
+DCWM w/ reconstruction,humanoid-walk,1750000.0,1.4934366941452026,3
+DCWM w/ reconstruction,humanoid-walk,1775000.0,1.937638521194458,3
+DCWM w/ reconstruction,humanoid-walk,1800000.0,2.1989293098449707,3
+DCWM w/ reconstruction,humanoid-walk,1825000.0,1.3588981628417969,3
+DCWM w/ reconstruction,humanoid-walk,1850000.0,1.4057705402374268,3
+DCWM w/ reconstruction,humanoid-walk,1875000.0,1.5415772199630735,3
+DCWM w/ reconstruction,humanoid-walk,1900000.0,1.939578890800476,3
+DCWM w/ reconstruction,humanoid-walk,1925000.0,2.051393985748291,3
+DCWM w/ reconstruction,humanoid-walk,1950000.0,1.3786799907684326,3
+DCWM w/ reconstruction,dog-run,0.0,4.7883172035217285,1
+DCWM w/ reconstruction,dog-run,25000.0,6.543250560760498,1
+DCWM w/ reconstruction,dog-run,50000.0,6.720120429992676,1
+DCWM w/ reconstruction,dog-run,75000.0,5.385836124420166,1
+DCWM w/ reconstruction,dog-run,100000.0,6.717521667480469,1
+DCWM w/ reconstruction,dog-run,125000.0,6.210583686828613,1
+DCWM w/ reconstruction,dog-run,150000.0,5.930523872375488,1
+DCWM w/ reconstruction,dog-run,175000.0,8.766423225402832,1
+DCWM w/ reconstruction,dog-run,200000.0,8.274199485778809,1
+DCWM w/ reconstruction,dog-run,225000.0,8.418583869934082,1
+DCWM w/ reconstruction,dog-run,250000.0,8.045445442199707,1
+DCWM w/ reconstruction,dog-run,275000.0,12.059842109680176,1
+DCWM w/ reconstruction,dog-run,300000.0,11.91001319885254,1
+DCWM w/ reconstruction,dog-run,325000.0,11.827467918395996,1
+DCWM w/ reconstruction,dog-run,350000.0,11.795348167419434,1
+DCWM w/ reconstruction,dog-run,375000.0,19.365816116333008,1
+DCWM w/ reconstruction,dog-run,400000.0,15.976800918579102,1
+DCWM w/ reconstruction,dog-run,425000.0,19.80238914489746,1
+DCWM w/ reconstruction,dog-run,450000.0,23.159767150878903,1
+DCWM w/ reconstruction,dog-run,475000.0,19.166105270385746,1
+DCWM w/ reconstruction,dog-run,500000.0,29.265729904174805,1
+DCWM w/ reconstruction,dog-run,525000.0,27.64996910095215,1
+DCWM w/ reconstruction,dog-run,550000.0,24.798192977905273,1
+DCWM w/ reconstruction,dog-run,575000.0,28.980260848999023,1
+DCWM w/ reconstruction,dog-run,600000.0,23.625043869018555,1
+DCWM w/ reconstruction,dog-run,625000.0,27.623371124267575,1
+DCWM w/ reconstruction,dog-run,650000.0,31.615812301635746,1
+DCWM w/ reconstruction,dog-run,675000.0,31.407739639282227,1
+DCWM w/ reconstruction,dog-run,700000.0,26.92305374145508,1
+DCWM w/ reconstruction,dog-run,725000.0,28.59735679626465,1
+DCWM w/ reconstruction,dog-run,750000.0,23.861713409423828,1
+DCWM w/ reconstruction,dog-run,775000.0,22.00915145874023,1
+DCWM w/ reconstruction,dog-run,800000.0,32.62996292114258,1
+DCWM w/ reconstruction,dog-run,825000.0,25.60727310180664,1
+DCWM w/ reconstruction,dog-run,850000.0,18.31052017211914,1
+DCWM w/ reconstruction,dog-run,875000.0,20.44692039489746,1
+DCWM w/ reconstruction,dog-run,900000.0,17.444690704345703,1
+DCWM w/ reconstruction,dog-run,925000.0,25.791624069213867,1
+DCWM w/ reconstruction,dog-run,950000.0,35.54484939575195,1
+DCWM w/ reconstruction,dog-run,975000.0,34.5163688659668,1
+DCWM w/ reconstruction,dog-run,1000000.0,18.53834342956543,1
+DCWM w/ reconstruction,dog-run,1025000.0,5.158205509185791,1
+DCWM w/ reconstruction,dog-run,1050000.0,4.9960198402404785,1
+DCWM w/ reconstruction,dog-run,1075000.0,6.699400424957275,1
+DCWM w/ reconstruction,dog-run,1100000.0,5.79223108291626,1
+DCWM w/ reconstruction,dog-run,1125000.0,5.131537914276123,1
+DCWM w/ reconstruction,dog-run,1150000.0,6.52472448348999,1
+DCWM w/ reconstruction,dog-run,1175000.0,7.240776062011719,1
+DCWM w/ reconstruction,dog-run,1200000.0,8.29047966003418,1
+DCWM w/ reconstruction,dog-run,1225000.0,8.392724990844727,1
+DCWM w/ reconstruction,dog-run,1250000.0,8.372926712036133,1
+DCWM w/ reconstruction,dog-run,1275000.0,10.201306343078612,1
+DCWM w/ reconstruction,dog-run,1300000.0,9.10504913330078,1
+DCWM w/ reconstruction,dog-run,1325000.0,12.177284240722656,1
+DCWM w/ reconstruction,dog-run,1350000.0,9.75357437133789,1
+DCWM w/ reconstruction,dog-run,1375000.0,9.32578182220459,1
+DCWM w/ reconstruction,dog-run,1400000.0,9.399078369140623,1
+DCWM w/ reconstruction,dog-run,1425000.0,9.838129043579102,1
+DCWM w/ reconstruction,dog-run,1450000.0,9.468860626220703,1
+DCWM w/ reconstruction,dog-run,1475000.0,9.498045921325684,1
+DCWM w/ reconstruction,dog-run,1500000.0,9.600112915039062,1
+DCWM w/ reconstruction,dog-run,1525000.0,8.815875053405762,1
+DCWM w/ reconstruction,dog-run,1550000.0,8.020000457763672,1
+DCWM w/ reconstruction,dog-run,1575000.0,8.277064323425293,1
+DCWM w/ reconstruction,dog-run,1600000.0,7.902595043182373,1
+DCWM w/ reconstruction,dog-run,1625000.0,10.81454086303711,1
+DCWM w/ reconstruction,dog-run,1650000.0,9.895325660705566,1
+DCWM w/ reconstruction,dog-run,1675000.0,9.155896186828612,1
+DCWM w/ reconstruction,dog-run,1700000.0,10.292813301086426,1
+DCWM w/ reconstruction,dog-run,1725000.0,5.603862285614014,1
+DCWM w/ reconstruction,dog-run,1750000.0,7.5307230949401855,1
+DCWM w/ reconstruction,dog-run,1775000.0,8.824752807617188,1
+DCWM w/ reconstruction,dog-run,1800000.0,10.05778980255127,1
+DCWM w/ reconstruction,dog-run,1825000.0,9.745774269104004,1
+DCWM w/ reconstruction,dog-run,1850000.0,10.045350074768066,1
+DCWM w/ reconstruction,dog-run,1875000.0,9.791025161743164,1
+DCWM w/ reconstruction,dog-run,1900000.0,7.266072273254395,1
+DCWM w/ reconstruction,dog-run,1925000.0,8.127309799194336,1
+DCWM w/ reconstruction,dog-run,1950000.0,10.50305461883545,1
+DCWM w/ reconstruction,dog-run,1975000.0,7.39154052734375,1
+DCWM w/ reconstruction,dog-run,2000000.0,8.047530174255371,1
+DCWM w/ reconstruction,dog-run,0.0,3.921372175216675,2
+DCWM w/ reconstruction,dog-run,25000.0,7.890102386474609,2
+DCWM w/ reconstruction,dog-run,50000.0,5.497039318084717,2
+DCWM w/ reconstruction,dog-run,75000.0,6.490103244781494,2
+DCWM w/ reconstruction,dog-run,100000.0,7.754096984863281,2
+DCWM w/ reconstruction,dog-run,125000.0,7.822131633758545,2
+DCWM w/ reconstruction,dog-run,150000.0,8.51762580871582,2
+DCWM w/ reconstruction,dog-run,175000.0,10.092434883117676,2
+DCWM w/ reconstruction,dog-run,200000.0,9.420336723327637,2
+DCWM w/ reconstruction,dog-run,225000.0,8.968928337097168,2
+DCWM w/ reconstruction,dog-run,250000.0,7.57957935333252,2
+DCWM w/ reconstruction,dog-run,275000.0,10.313682556152344,2
+DCWM w/ reconstruction,dog-run,300000.0,13.991625785827637,2
+DCWM w/ reconstruction,dog-run,325000.0,12.9109525680542,2
+DCWM w/ reconstruction,dog-run,350000.0,9.495859146118164,2
+DCWM w/ reconstruction,dog-run,375000.0,8.71734619140625,2
+DCWM w/ reconstruction,dog-run,400000.0,14.844225883483888,2
+DCWM w/ reconstruction,dog-run,425000.0,15.472599983215332,2
+DCWM w/ reconstruction,dog-run,450000.0,17.501562118530273,2
+DCWM w/ reconstruction,dog-run,475000.0,15.80295753479004,2
+DCWM w/ reconstruction,dog-run,500000.0,19.691343307495117,2
+DCWM w/ reconstruction,dog-run,525000.0,17.33338737487793,2
+DCWM w/ reconstruction,dog-run,550000.0,20.611230850219727,2
+DCWM w/ reconstruction,dog-run,575000.0,20.133621215820312,2
+DCWM w/ reconstruction,dog-run,600000.0,19.30904960632324,2
+DCWM w/ reconstruction,dog-run,625000.0,26.949127197265625,2
+DCWM w/ reconstruction,dog-run,650000.0,29.03431701660156,2
+DCWM w/ reconstruction,dog-run,675000.0,31.728986740112305,2
+DCWM w/ reconstruction,dog-run,700000.0,27.28998756408691,2
+DCWM w/ reconstruction,dog-run,725000.0,27.865570068359375,2
+DCWM w/ reconstruction,dog-run,750000.0,20.54378890991211,2
+DCWM w/ reconstruction,dog-run,775000.0,31.949371337890625,2
+DCWM w/ reconstruction,dog-run,800000.0,35.98653793334961,2
+DCWM w/ reconstruction,dog-run,825000.0,39.19445037841797,2
+DCWM w/ reconstruction,dog-run,850000.0,36.4280891418457,2
+DCWM w/ reconstruction,dog-run,875000.0,35.740997314453125,2
+DCWM w/ reconstruction,dog-run,900000.0,37.52294921875,2
+DCWM w/ reconstruction,dog-run,925000.0,38.85386276245117,2
+DCWM w/ reconstruction,dog-run,950000.0,38.62311553955078,2
+DCWM w/ reconstruction,dog-run,975000.0,45.00307083129883,2
+DCWM w/ reconstruction,dog-run,1000000.0,42.52037811279297,2
+DCWM w/ reconstruction,dog-run,1025000.0,43.14617538452149,2
+DCWM w/ reconstruction,dog-run,1050000.0,43.6401252746582,2
+DCWM w/ reconstruction,dog-run,1075000.0,40.48971176147461,2
+DCWM w/ reconstruction,dog-run,1100000.0,38.61328125,2
+DCWM w/ reconstruction,dog-run,1125000.0,38.19109725952149,2
+DCWM w/ reconstruction,dog-run,1150000.0,38.0267333984375,2
+DCWM w/ reconstruction,dog-run,1175000.0,47.869869232177734,2
+DCWM w/ reconstruction,dog-run,1200000.0,38.87803268432617,2
+DCWM w/ reconstruction,dog-run,1225000.0,33.14051055908203,2
+DCWM w/ reconstruction,dog-run,1250000.0,49.126251220703125,2
+DCWM w/ reconstruction,dog-run,1275000.0,43.85239028930664,2
+DCWM w/ reconstruction,dog-run,1300000.0,47.34955978393555,2
+DCWM w/ reconstruction,dog-run,1325000.0,35.69773483276367,2
+DCWM w/ reconstruction,dog-run,1350000.0,47.74247741699219,2
+DCWM w/ reconstruction,dog-run,1375000.0,30.681262969970703,2
+DCWM w/ reconstruction,dog-run,1400000.0,43.49275588989258,2
+DCWM w/ reconstruction,dog-run,1425000.0,40.29412841796875,2
+DCWM w/ reconstruction,dog-run,1450000.0,42.2331657409668,2
+DCWM w/ reconstruction,dog-run,1475000.0,52.196380615234375,2
+DCWM w/ reconstruction,dog-run,1500000.0,52.52407455444336,2
+DCWM w/ reconstruction,dog-run,1525000.0,46.90446853637695,2
+DCWM w/ reconstruction,dog-run,1550000.0,47.80113220214844,2
+DCWM w/ reconstruction,dog-run,1575000.0,39.5415153503418,2
+DCWM w/ reconstruction,dog-run,1600000.0,10.662650108337402,2
+DCWM w/ reconstruction,dog-run,1625000.0,25.554933547973633,2
+DCWM w/ reconstruction,dog-run,1650000.0,11.299296379089355,2
+DCWM w/ reconstruction,dog-run,1675000.0,25.330049514770508,2
+DCWM w/ reconstruction,dog-run,1700000.0,11.136031150817873,2
+DCWM w/ reconstruction,dog-run,1725000.0,9.383663177490234,2
+DCWM w/ reconstruction,dog-run,1750000.0,11.60358428955078,2
+DCWM w/ reconstruction,dog-run,1775000.0,10.357098579406738,2
+DCWM w/ reconstruction,dog-run,1800000.0,10.386383056640623,2
+DCWM w/ reconstruction,dog-run,1825000.0,6.414432048797607,2
+DCWM w/ reconstruction,dog-run,1850000.0,9.054036140441896,2
+DCWM w/ reconstruction,dog-run,1875000.0,6.495910167694092,2
+DCWM w/ reconstruction,dog-run,1900000.0,5.668007850646973,2
+DCWM w/ reconstruction,dog-run,1925000.0,8.000396728515625,2
+DCWM w/ reconstruction,dog-run,1950000.0,37.4255256652832,2
+DCWM w/ reconstruction,dog-run,1975000.0,41.20484161376953,2
+DCWM w/ reconstruction,dog-run,2000000.0,42.76224899291992,2
+DCWM w/ reconstruction,dog-run,0.0,8.482854843139648,3
+DCWM w/ reconstruction,dog-run,25000.0,4.145608425140381,3
+DCWM w/ reconstruction,dog-run,50000.0,5.144077301025391,3
+DCWM w/ reconstruction,dog-run,75000.0,5.768846035003662,3
+DCWM w/ reconstruction,dog-run,100000.0,4.267045021057129,3
+DCWM w/ reconstruction,dog-run,125000.0,4.996931552886963,3
+DCWM w/ reconstruction,dog-run,150000.0,7.548802375793457,3
+DCWM w/ reconstruction,dog-run,175000.0,5.943145751953125,3
+DCWM w/ reconstruction,dog-run,200000.0,5.2664971351623535,3
+DCWM w/ reconstruction,dog-run,225000.0,8.394308090209961,3
+DCWM w/ reconstruction,dog-run,250000.0,6.260452747344971,3
+DCWM w/ reconstruction,dog-run,275000.0,8.343100547790527,3
+DCWM w/ reconstruction,dog-run,300000.0,10.957859992980955,3
+DCWM w/ reconstruction,dog-run,325000.0,8.552565574645996,3
+DCWM w/ reconstruction,dog-run,350000.0,10.908160209655762,3
+DCWM w/ reconstruction,dog-run,375000.0,10.067499160766602,3
+DCWM w/ reconstruction,dog-run,400000.0,14.596774101257324,3
+DCWM w/ reconstruction,dog-run,425000.0,11.660357475280762,3
+DCWM w/ reconstruction,dog-run,450000.0,18.92224502563477,3
+DCWM w/ reconstruction,dog-run,475000.0,20.632169723510746,3
+DCWM w/ reconstruction,dog-run,500000.0,26.254858016967773,3
+DCWM w/ reconstruction,dog-run,525000.0,24.64451789855957,3
+DCWM w/ reconstruction,dog-run,550000.0,27.3603515625,3
+DCWM w/ reconstruction,dog-run,575000.0,33.005367279052734,3
+DCWM w/ reconstruction,dog-run,600000.0,32.59981155395508,3
+DCWM w/ reconstruction,dog-run,625000.0,31.879613876342773,3
+DCWM w/ reconstruction,dog-run,650000.0,31.186111450195312,3
+DCWM w/ reconstruction,dog-run,675000.0,32.56649398803711,3
+DCWM w/ reconstruction,dog-run,700000.0,38.43659210205078,3
+DCWM w/ reconstruction,dog-run,725000.0,35.41851806640625,3
+DCWM w/ reconstruction,dog-run,750000.0,36.82941818237305,3
+DCWM w/ reconstruction,dog-run,775000.0,35.976043701171875,3
+DCWM w/ reconstruction,dog-run,800000.0,37.4329833984375,3
+DCWM w/ reconstruction,dog-run,825000.0,40.50518798828125,3
+DCWM w/ reconstruction,dog-run,850000.0,48.51499557495117,3
+DCWM w/ reconstruction,dog-run,875000.0,32.56734848022461,3
+DCWM w/ reconstruction,dog-run,900000.0,50.374568939208984,3
+DCWM w/ reconstruction,dog-run,925000.0,65.03065490722656,3
+DCWM w/ reconstruction,dog-run,950000.0,56.1715202331543,3
+DCWM w/ reconstruction,dog-run,975000.0,69.2398910522461,3
+DCWM w/ reconstruction,dog-run,1000000.0,60.80949020385742,3
+DCWM w/ reconstruction,dog-run,1025000.0,60.914791107177734,3
+DCWM w/ reconstruction,dog-run,1050000.0,56.308895111083984,3
+DCWM w/ reconstruction,dog-run,1075000.0,59.009185791015625,3
+DCWM w/ reconstruction,dog-run,1100000.0,72.90574645996094,3
+DCWM w/ reconstruction,dog-run,1125000.0,45.35173416137695,3
+DCWM w/ reconstruction,dog-run,1150000.0,66.2079849243164,3
+DCWM w/ reconstruction,dog-run,1175000.0,62.653533935546875,3
+DCWM w/ reconstruction,dog-run,1200000.0,67.50434112548828,3
+DCWM w/ reconstruction,dog-run,1225000.0,55.471710205078125,3
+DCWM w/ reconstruction,dog-run,1250000.0,61.500831604003906,3
+DCWM w/ reconstruction,dog-run,1275000.0,74.75415802001953,3
+DCWM w/ reconstruction,dog-run,1300000.0,79.638916015625,3
+DCWM w/ reconstruction,dog-run,1325000.0,73.24718475341797,3
+DCWM w/ reconstruction,dog-run,1350000.0,77.7380599975586,3
+DCWM w/ reconstruction,dog-run,1375000.0,66.18590545654297,3
+DCWM w/ reconstruction,dog-run,1400000.0,74.53360748291016,3
+DCWM w/ reconstruction,dog-run,1425000.0,86.58599853515625,3
+DCWM w/ reconstruction,dog-run,1450000.0,83.22197723388672,3
+DCWM w/ reconstruction,dog-run,1475000.0,92.90328216552734,3
+DCWM w/ reconstruction,dog-run,1500000.0,91.23406219482422,3
+DCWM w/ reconstruction,dog-run,1525000.0,80.4617919921875,3
+DCWM w/ reconstruction,dog-run,1550000.0,73.30875396728516,3
+DCWM w/ reconstruction,dog-run,1575000.0,85.46031951904297,3
+DCWM w/ reconstruction,dog-run,1600000.0,90.40128326416016,3
+DCWM w/ reconstruction,dog-run,1625000.0,102.01585388183594,3
+DCWM w/ reconstruction,dog-run,1650000.0,90.48835754394533,3
+DCWM w/ reconstruction,dog-run,1675000.0,95.1299819946289,3
+DCWM w/ reconstruction,dog-run,1700000.0,104.489013671875,3
+DCWM w/ reconstruction,dog-run,1725000.0,89.55831909179688,3
+DCWM w/ reconstruction,dog-run,1750000.0,86.7255630493164,3
+DCWM w/ reconstruction,dog-run,1775000.0,91.81452941894533,3
+DCWM w/ reconstruction,dog-run,1800000.0,99.52678680419922,3
+DCWM w/ reconstruction,dog-run,1825000.0,101.966552734375,3
+DCWM w/ reconstruction,dog-run,1850000.0,91.06939697265624,3
+DCWM w/ reconstruction,dog-run,1875000.0,96.59127044677734,3
+DCWM w/ reconstruction,dog-run,1900000.0,103.4309310913086,3
+DCWM w/ reconstruction,dog-run,1925000.0,118.92498779296876,3
+DCWM w/ reconstruction,dog-run,1950000.0,101.59398651123048,3
+DCWM w/ reconstruction,dog-run,1975000.0,100.2646255493164,3
+DCWM w/ reconstruction,dog-run,2000000.0,103.0912094116211,3
+DCWM w/ reconstruction,dog-run,2025000.0,85.27408599853516,3
+DCWM w/ reconstruction,dog-run,2050000.0,105.21199035644533,3
+DCWM w/ reconstruction,reacher-hard,0.0,0.9000000357627869,1
+DCWM w/ reconstruction,reacher-hard,25000.0,3.0,1
+DCWM w/ reconstruction,reacher-hard,50000.0,588.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,75000.0,294.20001220703125,1
+DCWM w/ reconstruction,reacher-hard,100000.0,412.3999938964844,1
+DCWM w/ reconstruction,reacher-hard,125000.0,465.2000122070313,1
+DCWM w/ reconstruction,reacher-hard,150000.0,834.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,175000.0,773.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,200000.0,642.0,1
+DCWM w/ reconstruction,reacher-hard,225000.0,793.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,250000.0,836.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,275000.0,698.5,1
+DCWM w/ reconstruction,reacher-hard,300000.0,782.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,325000.0,946.0,1
+DCWM w/ reconstruction,reacher-hard,350000.0,837.5,1
+DCWM w/ reconstruction,reacher-hard,375000.0,881.5,1
+DCWM w/ reconstruction,reacher-hard,400000.0,919.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,425000.0,772.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,450000.0,966.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,475000.0,964.5,1
+DCWM w/ reconstruction,reacher-hard,500000.0,646.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,525000.0,955.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,550000.0,967.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,575000.0,873.0,1
+DCWM w/ reconstruction,reacher-hard,600000.0,856.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,625000.0,961.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,650000.0,927.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,675000.0,874.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,700000.0,955.5,1
+DCWM w/ reconstruction,reacher-hard,725000.0,957.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,750000.0,967.0,1
+DCWM w/ reconstruction,reacher-hard,775000.0,968.0,1
+DCWM w/ reconstruction,reacher-hard,800000.0,969.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,825000.0,968.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,850000.0,877.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,875000.0,963.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,900000.0,973.5,1
+DCWM w/ reconstruction,reacher-hard,925000.0,966.5,1
+DCWM w/ reconstruction,reacher-hard,950000.0,946.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,975000.0,970.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,1000000.0,900.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,1025000.0,974.5,1
+DCWM w/ reconstruction,reacher-hard,1050000.0,925.0,1
+DCWM w/ reconstruction,reacher-hard,1075000.0,908.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1100000.0,978.5,1
+DCWM w/ reconstruction,reacher-hard,1125000.0,976.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1150000.0,973.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,1175000.0,951.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1200000.0,976.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,1225000.0,974.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,1250000.0,983.0,1
+DCWM w/ reconstruction,reacher-hard,1275000.0,976.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,1300000.0,976.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,1325000.0,975.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,1350000.0,972.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,1375000.0,980.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1400000.0,961.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1425000.0,984.0,1
+DCWM w/ reconstruction,reacher-hard,1450000.0,979.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1475000.0,978.5,1
+DCWM w/ reconstruction,reacher-hard,1500000.0,978.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,1525000.0,975.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1550000.0,979.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1575000.0,978.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,1600000.0,970.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1625000.0,974.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1650000.0,983.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,1675000.0,976.5,1
+DCWM w/ reconstruction,reacher-hard,1700000.0,958.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1725000.0,973.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1750000.0,973.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1775000.0,974.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1800000.0,976.5,1
+DCWM w/ reconstruction,reacher-hard,1825000.0,978.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1850000.0,982.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,1875000.0,947.0,1
+DCWM w/ reconstruction,reacher-hard,1900000.0,970.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,1925000.0,981.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,1950000.0,981.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,1975000.0,979.0,1
+DCWM w/ reconstruction,reacher-hard,2000000.0,978.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,2025000.0,977.5,1
+DCWM w/ reconstruction,reacher-hard,2050000.0,973.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,2075000.0,979.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,2100000.0,974.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,2125000.0,978.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,2150000.0,973.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,2175000.0,981.4000244140624,1
+DCWM w/ reconstruction,reacher-hard,2200000.0,983.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,2225000.0,970.7000122070312,1
+DCWM w/ reconstruction,reacher-hard,2250000.0,973.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,2275000.0,981.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,2300000.0,987.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,2325000.0,978.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,2350000.0,978.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,2375000.0,983.0,1
+DCWM w/ reconstruction,reacher-hard,2400000.0,971.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,2425000.0,970.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,2450000.0,975.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,2475000.0,970.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,2500000.0,980.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,2525000.0,966.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,2550000.0,978.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,2575000.0,978.6000366210938,1
+DCWM w/ reconstruction,reacher-hard,2600000.0,979.7999877929688,1
+DCWM w/ reconstruction,reacher-hard,2625000.0,980.5,1
+DCWM w/ reconstruction,reacher-hard,2650000.0,983.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,2675000.0,977.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,2700000.0,892.1000366210938,1
+DCWM w/ reconstruction,reacher-hard,2725000.0,973.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,2750000.0,982.0,1
+DCWM w/ reconstruction,reacher-hard,2775000.0,975.2000122070312,1
+DCWM w/ reconstruction,reacher-hard,2800000.0,972.9000244140624,1
+DCWM w/ reconstruction,reacher-hard,2825000.0,981.2999877929688,1
+DCWM w/ reconstruction,reacher-hard,0.0,0.699999988079071,2
+DCWM w/ reconstruction,reacher-hard,25000.0,66.80000305175781,2
+DCWM w/ reconstruction,reacher-hard,50000.0,109.0999984741211,2
+DCWM w/ reconstruction,reacher-hard,75000.0,181.40000915527344,2
+DCWM w/ reconstruction,reacher-hard,100000.0,244.1999969482422,2
+DCWM w/ reconstruction,reacher-hard,125000.0,533.6000366210938,2
+DCWM w/ reconstruction,reacher-hard,150000.0,455.3999938964844,2
+DCWM w/ reconstruction,reacher-hard,175000.0,703.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,200000.0,763.5,2
+DCWM w/ reconstruction,reacher-hard,225000.0,532.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,250000.0,635.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,275000.0,837.4000244140625,2
+DCWM w/ reconstruction,reacher-hard,300000.0,821.9000244140625,2
+DCWM w/ reconstruction,reacher-hard,325000.0,628.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,350000.0,774.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,375000.0,898.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,400000.0,763.5,2
+DCWM w/ reconstruction,reacher-hard,425000.0,834.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,450000.0,756.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,475000.0,698.5,2
+DCWM w/ reconstruction,reacher-hard,500000.0,722.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,525000.0,761.4000244140625,2
+DCWM w/ reconstruction,reacher-hard,550000.0,948.4000244140624,2
+DCWM w/ reconstruction,reacher-hard,575000.0,869.4000244140625,2
+DCWM w/ reconstruction,reacher-hard,600000.0,961.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,625000.0,951.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,650000.0,873.5,2
+DCWM w/ reconstruction,reacher-hard,675000.0,862.4000244140625,2
+DCWM w/ reconstruction,reacher-hard,700000.0,770.0,2
+DCWM w/ reconstruction,reacher-hard,725000.0,864.5,2
+DCWM w/ reconstruction,reacher-hard,750000.0,861.4000244140625,2
+DCWM w/ reconstruction,reacher-hard,775000.0,869.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,800000.0,960.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,825000.0,948.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,850000.0,964.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,875000.0,972.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,900000.0,958.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,925000.0,965.5,2
+DCWM w/ reconstruction,reacher-hard,950000.0,970.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,975000.0,958.4000244140624,2
+DCWM w/ reconstruction,reacher-hard,1000000.0,965.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,1025000.0,966.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,1050000.0,956.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,1075000.0,863.5,2
+DCWM w/ reconstruction,reacher-hard,1100000.0,971.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,1125000.0,969.6000366210938,2
+DCWM w/ reconstruction,reacher-hard,1150000.0,971.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,1175000.0,954.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,1200000.0,956.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,1225000.0,976.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,1250000.0,950.4000244140624,2
+DCWM w/ reconstruction,reacher-hard,1275000.0,962.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,1300000.0,973.6000366210938,2
+DCWM w/ reconstruction,reacher-hard,1325000.0,969.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,1350000.0,966.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,1375000.0,963.5,2
+DCWM w/ reconstruction,reacher-hard,1400000.0,940.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,1425000.0,880.0,2
+DCWM w/ reconstruction,reacher-hard,1450000.0,967.4000244140624,2
+DCWM w/ reconstruction,reacher-hard,1475000.0,971.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,1500000.0,967.7999877929688,2
+DCWM w/ reconstruction,reacher-hard,1525000.0,970.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,1550000.0,959.0,2
+DCWM w/ reconstruction,reacher-hard,1575000.0,969.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,1600000.0,970.5,2
+DCWM w/ reconstruction,reacher-hard,1625000.0,969.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,1650000.0,977.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,1675000.0,972.7999877929688,2
+DCWM w/ reconstruction,reacher-hard,1700000.0,962.6000366210938,2
+DCWM w/ reconstruction,reacher-hard,1725000.0,969.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,1750000.0,971.7999877929688,2
+DCWM w/ reconstruction,reacher-hard,1775000.0,880.7999877929688,2
+DCWM w/ reconstruction,reacher-hard,1800000.0,976.6000366210938,2
+DCWM w/ reconstruction,reacher-hard,1825000.0,965.0,2
+DCWM w/ reconstruction,reacher-hard,1850000.0,960.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,1875000.0,978.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,1900000.0,972.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,1925000.0,976.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,1950000.0,961.7999877929688,2
+DCWM w/ reconstruction,reacher-hard,1975000.0,970.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,2000000.0,978.6000366210938,2
+DCWM w/ reconstruction,reacher-hard,2025000.0,968.4000244140624,2
+DCWM w/ reconstruction,reacher-hard,2050000.0,972.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,2075000.0,977.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,2100000.0,975.0,2
+DCWM w/ reconstruction,reacher-hard,2125000.0,969.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,2150000.0,971.0,2
+DCWM w/ reconstruction,reacher-hard,2175000.0,971.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,2200000.0,970.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,2225000.0,978.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,2250000.0,965.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,2275000.0,966.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,2300000.0,972.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,2325000.0,935.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,2350000.0,959.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,2375000.0,979.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,2400000.0,978.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,2425000.0,978.2999877929688,2
+DCWM w/ reconstruction,reacher-hard,2450000.0,979.1000366210938,2
+DCWM w/ reconstruction,reacher-hard,2475000.0,978.4000244140624,2
+DCWM w/ reconstruction,reacher-hard,2500000.0,973.7999877929688,2
+DCWM w/ reconstruction,reacher-hard,2525000.0,973.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,2550000.0,970.7999877929688,2
+DCWM w/ reconstruction,reacher-hard,2575000.0,905.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,2600000.0,976.4000244140624,2
+DCWM w/ reconstruction,reacher-hard,2625000.0,971.0,2
+DCWM w/ reconstruction,reacher-hard,2650000.0,974.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,2675000.0,962.5,2
+DCWM w/ reconstruction,reacher-hard,2700000.0,979.6000366210938,2
+DCWM w/ reconstruction,reacher-hard,2725000.0,980.7000122070312,2
+DCWM w/ reconstruction,reacher-hard,2750000.0,974.9000244140624,2
+DCWM w/ reconstruction,reacher-hard,2775000.0,979.2000122070312,2
+DCWM w/ reconstruction,reacher-hard,2800000.0,981.5,2
+DCWM w/ reconstruction,reacher-hard,0.0,13.100000381469728,3
+DCWM w/ reconstruction,reacher-hard,25000.0,0.1000000014901161,3
+DCWM w/ reconstruction,reacher-hard,50000.0,4.200000286102295,3
+DCWM w/ reconstruction,reacher-hard,75000.0,90.20000457763672,3
+DCWM w/ reconstruction,reacher-hard,100000.0,12.199999809265137,3
+DCWM w/ reconstruction,reacher-hard,125000.0,46.60000228881836,3
+DCWM w/ reconstruction,reacher-hard,150000.0,179.1999969482422,3
+DCWM w/ reconstruction,reacher-hard,175000.0,238.3000030517578,3
+DCWM w/ reconstruction,reacher-hard,200000.0,290.8999938964844,3
+DCWM w/ reconstruction,reacher-hard,225000.0,754.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,250000.0,665.7999877929688,3
+DCWM w/ reconstruction,reacher-hard,275000.0,917.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,300000.0,421.6000061035156,3
+DCWM w/ reconstruction,reacher-hard,325000.0,624.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,350000.0,939.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,375000.0,851.9000244140625,3
+DCWM w/ reconstruction,reacher-hard,400000.0,727.9000244140625,3
+DCWM w/ reconstruction,reacher-hard,425000.0,854.7999877929688,3
+DCWM w/ reconstruction,reacher-hard,450000.0,706.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,475000.0,872.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,500000.0,772.5,3
+DCWM w/ reconstruction,reacher-hard,525000.0,835.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,550000.0,864.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,575000.0,853.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,600000.0,969.5,3
+DCWM w/ reconstruction,reacher-hard,625000.0,922.0,3
+DCWM w/ reconstruction,reacher-hard,650000.0,952.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,675000.0,966.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,700000.0,843.9000244140625,3
+DCWM w/ reconstruction,reacher-hard,725000.0,857.5,3
+DCWM w/ reconstruction,reacher-hard,750000.0,885.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,775000.0,869.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,800000.0,973.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,825000.0,964.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,850000.0,960.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,875000.0,965.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,900000.0,972.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,925000.0,963.5,3
+DCWM w/ reconstruction,reacher-hard,950000.0,960.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,975000.0,969.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,1000000.0,962.5,3
+DCWM w/ reconstruction,reacher-hard,1025000.0,975.0,3
+DCWM w/ reconstruction,reacher-hard,1050000.0,969.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,1075000.0,906.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,1100000.0,968.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,1125000.0,960.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,1150000.0,966.0,3
+DCWM w/ reconstruction,reacher-hard,1175000.0,964.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,1200000.0,970.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,1225000.0,963.5,3
+DCWM w/ reconstruction,reacher-hard,1250000.0,870.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,1275000.0,971.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,1300000.0,972.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,1325000.0,970.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,1350000.0,974.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,1375000.0,959.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,1400000.0,970.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,1425000.0,968.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,1450000.0,893.0,3
+DCWM w/ reconstruction,reacher-hard,1475000.0,966.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,1500000.0,908.0,3
+DCWM w/ reconstruction,reacher-hard,1525000.0,823.7999877929688,3
+DCWM w/ reconstruction,reacher-hard,1550000.0,971.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,1575000.0,964.0,3
+DCWM w/ reconstruction,reacher-hard,1600000.0,971.0,3
+DCWM w/ reconstruction,reacher-hard,1625000.0,972.7999877929688,3
+DCWM w/ reconstruction,reacher-hard,1650000.0,971.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,1675000.0,977.0,3
+DCWM w/ reconstruction,reacher-hard,1700000.0,968.0,3
+DCWM w/ reconstruction,reacher-hard,1725000.0,967.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,1750000.0,967.0,3
+DCWM w/ reconstruction,reacher-hard,1775000.0,971.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,1800000.0,964.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,1825000.0,976.0,3
+DCWM w/ reconstruction,reacher-hard,1850000.0,969.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,1875000.0,966.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,1900000.0,963.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,1925000.0,968.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,1950000.0,977.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,1975000.0,967.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,2000000.0,972.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,2025000.0,977.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,2050000.0,962.7999877929688,3
+DCWM w/ reconstruction,reacher-hard,2075000.0,968.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,2100000.0,973.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,2125000.0,969.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,2150000.0,978.7999877929688,3
+DCWM w/ reconstruction,reacher-hard,2175000.0,965.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,2200000.0,962.7000122070312,3
+DCWM w/ reconstruction,reacher-hard,2225000.0,964.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,2250000.0,960.7999877929688,3
+DCWM w/ reconstruction,reacher-hard,2275000.0,967.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,2300000.0,966.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,2325000.0,972.5,3
+DCWM w/ reconstruction,reacher-hard,2350000.0,957.2000122070312,3
+DCWM w/ reconstruction,reacher-hard,2375000.0,971.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,2400000.0,973.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,2425000.0,974.0,3
+DCWM w/ reconstruction,reacher-hard,2450000.0,974.0,3
+DCWM w/ reconstruction,reacher-hard,2475000.0,971.9000244140624,3
+DCWM w/ reconstruction,reacher-hard,2500000.0,965.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,2525000.0,963.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,2550000.0,973.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,2575000.0,972.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,2600000.0,979.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,2625000.0,970.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,2650000.0,966.5,3
+DCWM w/ reconstruction,reacher-hard,2675000.0,966.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,2700000.0,975.1000366210938,3
+DCWM w/ reconstruction,reacher-hard,2725000.0,973.4000244140624,3
+DCWM w/ reconstruction,reacher-hard,2750000.0,876.2999877929688,3
+DCWM w/ reconstruction,reacher-hard,2775000.0,968.6000366210938,3
+DCWM w/ reconstruction,reacher-hard,2800000.0,973.4000244140624,3
+DCWM (ours),walker-walk,1000.0,35.183502197265625,1
+DCWM (ours),walker-walk,26000.0,298.6482238769531,1
+DCWM (ours),walker-walk,51000.0,953.2974853515624,1
+DCWM (ours),walker-walk,76000.0,961.2322387695312,1
+DCWM (ours),walker-walk,101000.0,972.0142822265624,1
+DCWM (ours),walker-walk,126000.0,966.6049194335938,1
+DCWM (ours),walker-walk,151000.0,967.5899658203124,1
+DCWM (ours),walker-walk,176000.0,976.4777221679688,1
+DCWM (ours),walker-walk,201000.0,974.1222534179688,1
+DCWM (ours),walker-walk,226000.0,967.9242553710938,1
+DCWM (ours),walker-walk,251000.0,976.8920288085938,1
+DCWM (ours),walker-walk,276000.0,977.8165893554688,1
+DCWM (ours),walker-walk,301000.0,973.5411987304688,1
+DCWM (ours),walker-walk,326000.0,980.3583984375,1
+DCWM (ours),walker-walk,351000.0,980.8150634765624,1
+DCWM (ours),walker-walk,376000.0,974.1094970703124,1
+DCWM (ours),walker-walk,401000.0,968.794921875,1
+DCWM (ours),walker-walk,426000.0,979.5208129882812,1
+DCWM (ours),walker-walk,451000.0,970.3881225585938,1
+DCWM (ours),walker-walk,476000.0,974.2338256835938,1
+DCWM (ours),walker-walk,501000.0,978.5870971679688,1
+DCWM (ours),walker-walk,526000.0,975.2275390625,1
+DCWM (ours),walker-walk,551000.0,976.8524780273438,1
+DCWM (ours),walker-walk,576000.0,975.8052978515624,1
+DCWM (ours),walker-walk,601000.0,979.8455200195312,1
+DCWM (ours),walker-walk,626000.0,971.9569702148438,1
+DCWM (ours),walker-walk,651000.0,977.9358520507812,1
+DCWM (ours),walker-walk,676000.0,974.173828125,1
+DCWM (ours),walker-walk,701000.0,978.4892578125,1
+DCWM (ours),walker-walk,726000.0,980.7968139648438,1
+DCWM (ours),walker-walk,751000.0,972.3990478515624,1
+DCWM (ours),walker-walk,776000.0,981.4511108398438,1
+DCWM (ours),walker-walk,801000.0,977.3129272460938,1
+DCWM (ours),walker-walk,826000.0,979.7946166992188,1
+DCWM (ours),walker-walk,851000.0,977.830078125,1
+DCWM (ours),walker-walk,876000.0,982.1752319335938,1
+DCWM (ours),walker-walk,901000.0,982.7704467773438,1
+DCWM (ours),walker-walk,926000.0,970.9191284179688,1
+DCWM (ours),walker-walk,951000.0,987.49853515625,1
+DCWM (ours),walker-walk,976000.0,981.8583984375,1
+DCWM (ours),walker-walk,1001000.0,975.4882202148438,1
+DCWM (ours),walker-walk,1026000.0,980.2838134765624,1
+DCWM (ours),walker-walk,1051000.0,975.2467651367188,1
+DCWM (ours),walker-walk,1076000.0,982.3121337890624,1
+DCWM (ours),walker-walk,1101000.0,980.607421875,1
+DCWM (ours),walker-walk,1126000.0,982.5637817382812,1
+DCWM (ours),walker-walk,1151000.0,977.92724609375,1
+DCWM (ours),walker-walk,1176000.0,977.8424682617188,1
+DCWM (ours),walker-walk,1201000.0,979.2839965820312,1
+DCWM (ours),walker-walk,1226000.0,978.4398803710938,1
+DCWM (ours),walker-walk,1251000.0,967.7662353515624,1
+DCWM (ours),walker-walk,1276000.0,974.7601928710938,1
+DCWM (ours),walker-walk,1301000.0,980.0914916992188,1
+DCWM (ours),walker-walk,1326000.0,980.2193603515624,1
+DCWM (ours),walker-walk,1351000.0,974.0275268554688,1
+DCWM (ours),walker-walk,1376000.0,981.7826538085938,1
+DCWM (ours),walker-walk,1401000.0,977.0660400390624,1
+DCWM (ours),walker-walk,1426000.0,974.6384887695312,1
+DCWM (ours),walker-walk,1451000.0,979.3887939453124,1
+DCWM (ours),walker-walk,1476000.0,982.4588012695312,1
+DCWM (ours),walker-walk,1501000.0,976.6146850585938,1
+DCWM (ours),walker-walk,1526000.0,986.7890625,1
+DCWM (ours),walker-walk,1551000.0,977.8746337890624,1
+DCWM (ours),walker-walk,1576000.0,980.0519409179688,1
+DCWM (ours),walker-walk,1601000.0,979.0017700195312,1
+DCWM (ours),walker-walk,1626000.0,981.1691284179688,1
+DCWM (ours),walker-walk,1651000.0,981.5554809570312,1
+DCWM (ours),walker-walk,1676000.0,981.8992309570312,1
+DCWM (ours),walker-walk,1701000.0,980.9216918945312,1
+DCWM (ours),walker-walk,1726000.0,981.75927734375,1
+DCWM (ours),walker-walk,1751000.0,985.6453247070312,1
+DCWM (ours),walker-walk,1776000.0,982.4046020507812,1
+DCWM (ours),walker-walk,1801000.0,984.6402587890624,1
+DCWM (ours),walker-walk,1826000.0,981.4739379882812,1
+DCWM (ours),walker-walk,1851000.0,976.5222778320312,1
+DCWM (ours),walker-walk,1876000.0,980.7477416992188,1
+DCWM (ours),walker-walk,1901000.0,985.3577270507812,1
+DCWM (ours),walker-walk,1926000.0,976.130859375,1
+DCWM (ours),walker-walk,1951000.0,983.3595581054688,1
+DCWM (ours),walker-walk,1976000.0,973.9835815429688,1
+DCWM (ours),walker-walk,2001000.0,980.7350463867188,1
+DCWM (ours),walker-walk,2026000.0,983.5623168945312,1
+DCWM (ours),walker-walk,2051000.0,977.6759643554688,1
+DCWM (ours),walker-walk,2076000.0,979.6982421875,1
+DCWM (ours),walker-walk,2101000.0,975.5492553710938,1
+DCWM (ours),walker-walk,2126000.0,974.5474853515624,1
+DCWM (ours),walker-walk,2151000.0,977.3583984375,1
+DCWM (ours),walker-walk,2176000.0,982.0925903320312,1
+DCWM (ours),walker-walk,2201000.0,982.9364624023438,1
+DCWM (ours),walker-walk,2226000.0,979.5421142578124,1
+DCWM (ours),walker-walk,2251000.0,976.2984619140624,1
+DCWM (ours),walker-walk,2276000.0,985.9236450195312,1
+DCWM (ours),walker-walk,2301000.0,980.7296752929688,1
+DCWM (ours),walker-walk,2326000.0,977.2262573242188,1
+DCWM (ours),walker-walk,2351000.0,980.3059692382812,1
+DCWM (ours),walker-walk,2376000.0,979.3717651367188,1
+DCWM (ours),walker-walk,2401000.0,979.7975463867188,1
+DCWM (ours),walker-walk,2426000.0,978.7144775390624,1
+DCWM (ours),walker-walk,2451000.0,981.3119506835938,1
+DCWM (ours),walker-walk,2476000.0,981.95703125,1
+DCWM (ours),walker-walk,2501000.0,985.0974731445312,1
+DCWM (ours),walker-walk,2526000.0,976.4931640625,1
+DCWM (ours),walker-walk,2551000.0,975.1710815429688,1
+DCWM (ours),walker-walk,2576000.0,980.5971069335938,1
+DCWM (ours),walker-walk,2601000.0,977.3273315429688,1
+DCWM (ours),walker-walk,2626000.0,978.2205200195312,1
+DCWM (ours),walker-walk,2651000.0,979.3895874023438,1
+DCWM (ours),walker-walk,1000.0,32.85527038574219,2
+DCWM (ours),walker-walk,26000.0,891.6597900390625,2
+DCWM (ours),walker-walk,51000.0,960.4812622070312,2
+DCWM (ours),walker-walk,76000.0,967.2138061523438,2
+DCWM (ours),walker-walk,101000.0,965.17333984375,2
+DCWM (ours),walker-walk,126000.0,974.35302734375,2
+DCWM (ours),walker-walk,151000.0,972.6490478515624,2
+DCWM (ours),walker-walk,176000.0,971.3804931640624,2
+DCWM (ours),walker-walk,201000.0,972.7320556640624,2
+DCWM (ours),walker-walk,226000.0,971.15771484375,2
+DCWM (ours),walker-walk,251000.0,974.3629150390624,2
+DCWM (ours),walker-walk,276000.0,980.8057861328124,2
+DCWM (ours),walker-walk,301000.0,971.1236572265624,2
+DCWM (ours),walker-walk,326000.0,976.0277709960938,2
+DCWM (ours),walker-walk,351000.0,972.6961059570312,2
+DCWM (ours),walker-walk,376000.0,978.5189819335938,2
+DCWM (ours),walker-walk,401000.0,975.4894409179688,2
+DCWM (ours),walker-walk,426000.0,974.4560546875,2
+DCWM (ours),walker-walk,451000.0,980.8549194335938,2
+DCWM (ours),walker-walk,476000.0,979.3736572265624,2
+DCWM (ours),walker-walk,501000.0,984.8458251953124,2
+DCWM (ours),walker-walk,526000.0,977.1414184570312,2
+DCWM (ours),walker-walk,551000.0,978.6052856445312,2
+DCWM (ours),walker-walk,576000.0,981.7186889648438,2
+DCWM (ours),walker-walk,601000.0,980.888671875,2
+DCWM (ours),walker-walk,626000.0,979.1342163085938,2
+DCWM (ours),walker-walk,651000.0,987.1808471679688,2
+DCWM (ours),walker-walk,676000.0,981.5886840820312,2
+DCWM (ours),walker-walk,701000.0,981.0880126953124,2
+DCWM (ours),walker-walk,726000.0,972.5397338867188,2
+DCWM (ours),walker-walk,751000.0,974.6867065429688,2
+DCWM (ours),walker-walk,776000.0,978.1070556640624,2
+DCWM (ours),walker-walk,801000.0,978.7377319335938,2
+DCWM (ours),walker-walk,826000.0,978.6066284179688,2
+DCWM (ours),walker-walk,851000.0,978.3191528320312,2
+DCWM (ours),walker-walk,876000.0,983.3259887695312,2
+DCWM (ours),walker-walk,901000.0,984.6104736328124,2
+DCWM (ours),walker-walk,926000.0,978.0601806640624,2
+DCWM (ours),walker-walk,951000.0,986.6851806640624,2
+DCWM (ours),walker-walk,976000.0,980.49462890625,2
+DCWM (ours),walker-walk,1001000.0,982.89501953125,2
+DCWM (ours),walker-walk,1026000.0,986.4221801757812,2
+DCWM (ours),walker-walk,1051000.0,982.8070678710938,2
+DCWM (ours),walker-walk,1076000.0,976.1866455078124,2
+DCWM (ours),walker-walk,1101000.0,981.9459838867188,2
+DCWM (ours),walker-walk,1126000.0,974.5826416015624,2
+DCWM (ours),walker-walk,1151000.0,979.2672119140624,2
+DCWM (ours),walker-walk,1176000.0,988.8195190429688,2
+DCWM (ours),walker-walk,1201000.0,980.0714721679688,2
+DCWM (ours),walker-walk,1226000.0,982.4325561523438,2
+DCWM (ours),walker-walk,1251000.0,985.9683837890624,2
+DCWM (ours),walker-walk,1276000.0,981.4195556640624,2
+DCWM (ours),walker-walk,1301000.0,976.2302856445312,2
+DCWM (ours),walker-walk,1326000.0,979.0646362304688,2
+DCWM (ours),walker-walk,1351000.0,979.0328369140624,2
+DCWM (ours),walker-walk,1376000.0,974.265625,2
+DCWM (ours),walker-walk,1401000.0,978.2074584960938,2
+DCWM (ours),walker-walk,1426000.0,988.2112426757812,2
+DCWM (ours),walker-walk,1451000.0,983.0924072265624,2
+DCWM (ours),walker-walk,1476000.0,979.3048706054688,2
+DCWM (ours),walker-walk,1501000.0,978.1718139648438,2
+DCWM (ours),walker-walk,1526000.0,979.96875,2
+DCWM (ours),walker-walk,1551000.0,979.4508666992188,2
+DCWM (ours),walker-walk,1576000.0,976.9926147460938,2
+DCWM (ours),walker-walk,1601000.0,981.2388916015624,2
+DCWM (ours),walker-walk,1626000.0,983.2687377929688,2
+DCWM (ours),walker-walk,1651000.0,984.2465209960938,2
+DCWM (ours),walker-walk,1676000.0,984.8598022460938,2
+DCWM (ours),walker-walk,1701000.0,976.9801025390624,2
+DCWM (ours),walker-walk,1726000.0,984.4647827148438,2
+DCWM (ours),walker-walk,1751000.0,982.1767578125,2
+DCWM (ours),walker-walk,1776000.0,980.8015747070312,2
+DCWM (ours),walker-walk,1801000.0,979.6150512695312,2
+DCWM (ours),walker-walk,1826000.0,986.7732543945312,2
+DCWM (ours),walker-walk,1851000.0,982.2133178710938,2
+DCWM (ours),walker-walk,1876000.0,972.8908081054688,2
+DCWM (ours),walker-walk,1901000.0,983.2140502929688,2
+DCWM (ours),walker-walk,1926000.0,978.3870239257812,2
+DCWM (ours),walker-walk,1951000.0,982.0616455078124,2
+DCWM (ours),walker-walk,1976000.0,973.951171875,2
+DCWM (ours),walker-walk,2001000.0,980.56884765625,2
+DCWM (ours),walker-walk,2026000.0,980.3353881835938,2
+DCWM (ours),walker-walk,2051000.0,985.95703125,2
+DCWM (ours),walker-walk,2076000.0,980.9117431640624,2
+DCWM (ours),walker-walk,2101000.0,965.9429931640624,2
+DCWM (ours),walker-walk,2126000.0,986.0451049804688,2
+DCWM (ours),walker-walk,2151000.0,979.6326293945312,2
+DCWM (ours),walker-walk,2176000.0,979.0219116210938,2
+DCWM (ours),walker-walk,2201000.0,982.52490234375,2
+DCWM (ours),walker-walk,2226000.0,979.48095703125,2
+DCWM (ours),walker-walk,2251000.0,983.32275390625,2
+DCWM (ours),walker-walk,2276000.0,984.3982543945312,2
+DCWM (ours),walker-walk,2301000.0,984.3886108398438,2
+DCWM (ours),walker-walk,2326000.0,979.7055053710938,2
+DCWM (ours),walker-walk,2351000.0,981.91357421875,2
+DCWM (ours),walker-walk,2376000.0,983.0748901367188,2
+DCWM (ours),walker-walk,2401000.0,985.1967163085938,2
+DCWM (ours),walker-walk,2426000.0,976.5247192382812,2
+DCWM (ours),walker-walk,2451000.0,975.6286010742188,2
+DCWM (ours),walker-walk,2476000.0,977.3844604492188,2
+DCWM (ours),walker-walk,2501000.0,970.6652221679688,2
+DCWM (ours),walker-walk,2526000.0,984.5067749023438,2
+DCWM (ours),walker-walk,2551000.0,981.44140625,2
+DCWM (ours),walker-walk,2576000.0,984.1336059570312,2
+DCWM (ours),walker-walk,2601000.0,982.0236206054688,2
+DCWM (ours),walker-walk,2626000.0,976.8798217773438,2
+DCWM (ours),walker-walk,2651000.0,971.7970581054688,2
+DCWM (ours),walker-walk,2676000.0,979.8097534179688,2
+DCWM (ours),walker-walk,2701000.0,981.4957885742188,2
+DCWM (ours),walker-walk,2726000.0,981.5905151367188,2
+DCWM (ours),walker-walk,2751000.0,980.7369384765624,2
+DCWM (ours),walker-walk,2776000.0,981.0075073242188,2
+DCWM (ours),walker-walk,2801000.0,979.7802124023438,2
+DCWM (ours),walker-walk,2826000.0,979.5343017578124,2
+DCWM (ours),walker-walk,2851000.0,985.80322265625,2
+DCWM (ours),walker-walk,2876000.0,982.5949096679688,2
+DCWM (ours),walker-walk,2901000.0,973.9786987304688,2
+DCWM (ours),walker-walk,2926000.0,981.7721557617188,2
+DCWM (ours),walker-walk,2951000.0,980.5814819335938,2
+DCWM (ours),walker-walk,2976000.0,987.6203002929688,2
+DCWM (ours),walker-walk,3001000.0,981.0841064453124,2
+DCWM (ours),walker-walk,3026000.0,981.478515625,2
+DCWM (ours),walker-walk,3051000.0,984.3531494140624,2
+DCWM (ours),walker-walk,3076000.0,981.5173950195312,2
+DCWM (ours),walker-walk,3101000.0,985.3244018554688,2
+DCWM (ours),walker-walk,3126000.0,975.0744018554688,2
+DCWM (ours),walker-walk,3151000.0,979.3798828125,2
+DCWM (ours),walker-walk,3176000.0,986.1636962890624,2
+DCWM (ours),walker-walk,3201000.0,983.2201538085938,2
+DCWM (ours),walker-walk,3226000.0,982.7680053710938,2
+DCWM (ours),walker-walk,3251000.0,975.251953125,2
+DCWM (ours),walker-walk,3276000.0,979.5857543945312,2
+DCWM (ours),walker-walk,3301000.0,982.6388549804688,2
+DCWM (ours),walker-walk,3326000.0,980.1671752929688,2
+DCWM (ours),walker-walk,1000.0,46.411861419677734,3
+DCWM (ours),walker-walk,26000.0,782.9484252929688,3
+DCWM (ours),walker-walk,51000.0,964.6975708007812,3
+DCWM (ours),walker-walk,76000.0,964.9410400390624,3
+DCWM (ours),walker-walk,101000.0,967.0859375,3
+DCWM (ours),walker-walk,126000.0,970.5441284179688,3
+DCWM (ours),walker-walk,151000.0,974.6533203125,3
+DCWM (ours),walker-walk,176000.0,972.1754150390624,3
+DCWM (ours),walker-walk,201000.0,971.94384765625,3
+DCWM (ours),walker-walk,226000.0,979.4113159179688,3
+DCWM (ours),walker-walk,251000.0,975.9789428710938,3
+DCWM (ours),walker-walk,276000.0,978.8804931640624,3
+DCWM (ours),walker-walk,301000.0,973.7659301757812,3
+DCWM (ours),walker-walk,326000.0,977.4539184570312,3
+DCWM (ours),walker-walk,351000.0,977.2897338867188,3
+DCWM (ours),walker-walk,376000.0,978.2921752929688,3
+DCWM (ours),walker-walk,401000.0,976.0245971679688,3
+DCWM (ours),walker-walk,426000.0,970.7171020507812,3
+DCWM (ours),walker-walk,451000.0,976.2366333007812,3
+DCWM (ours),walker-walk,476000.0,976.755859375,3
+DCWM (ours),walker-walk,501000.0,973.6591796875,3
+DCWM (ours),walker-walk,526000.0,978.10595703125,3
+DCWM (ours),walker-walk,551000.0,972.955078125,3
+DCWM (ours),walker-walk,576000.0,975.98974609375,3
+DCWM (ours),walker-walk,601000.0,973.2847900390624,3
+DCWM (ours),walker-walk,626000.0,984.1517944335938,3
+DCWM (ours),walker-walk,651000.0,980.1622924804688,3
+DCWM (ours),walker-walk,676000.0,982.6858520507812,3
+DCWM (ours),walker-walk,701000.0,982.0888061523438,3
+DCWM (ours),walker-walk,726000.0,979.18505859375,3
+DCWM (ours),walker-walk,751000.0,977.0142822265624,3
+DCWM (ours),walker-walk,776000.0,984.4908447265624,3
+DCWM (ours),walker-walk,801000.0,969.2607421875,3
+DCWM (ours),walker-walk,826000.0,974.6477661132812,3
+DCWM (ours),walker-walk,851000.0,981.5741577148438,3
+DCWM (ours),walker-walk,876000.0,985.3115234375,3
+DCWM (ours),walker-walk,901000.0,977.8259887695312,3
+DCWM (ours),walker-walk,926000.0,978.6544189453124,3
+DCWM (ours),walker-walk,951000.0,975.7860717773438,3
+DCWM (ours),walker-walk,976000.0,979.2077026367188,3
+DCWM (ours),walker-walk,1001000.0,977.0427856445312,3
+DCWM (ours),walker-walk,1026000.0,979.3023681640624,3
+DCWM (ours),walker-walk,1051000.0,973.9232788085938,3
+DCWM (ours),walker-walk,1076000.0,977.4539184570312,3
+DCWM (ours),walker-walk,1101000.0,973.1734619140624,3
+DCWM (ours),walker-walk,1126000.0,973.3185424804688,3
+DCWM (ours),walker-walk,1151000.0,981.8178100585938,3
+DCWM (ours),walker-walk,1176000.0,973.7809448242188,3
+DCWM (ours),walker-walk,1201000.0,983.8189697265624,3
+DCWM (ours),walker-walk,1226000.0,982.3717651367188,3
+DCWM (ours),walker-walk,1251000.0,980.2325439453124,3
+DCWM (ours),walker-walk,1276000.0,981.9169921875,3
+DCWM (ours),walker-walk,1301000.0,973.34765625,3
+DCWM (ours),walker-walk,1326000.0,976.5413208007812,3
+DCWM (ours),walker-walk,1351000.0,986.6549072265624,3
+DCWM (ours),walker-walk,1376000.0,983.1868286132812,3
+DCWM (ours),walker-walk,1401000.0,975.2455444335938,3
+DCWM (ours),walker-walk,1426000.0,980.5144653320312,3
+DCWM (ours),walker-walk,1451000.0,977.3111572265624,3
+DCWM (ours),walker-walk,1476000.0,977.79150390625,3
+DCWM (ours),walker-walk,1501000.0,988.5302124023438,3
+DCWM (ours),walker-walk,1526000.0,975.2517700195312,3
+DCWM (ours),walker-walk,1551000.0,971.068359375,3
+DCWM (ours),walker-walk,1576000.0,976.1246337890624,3
+DCWM (ours),walker-walk,1601000.0,974.96826171875,3
+DCWM (ours),walker-walk,1626000.0,983.3748168945312,3
+DCWM (ours),walker-walk,1651000.0,983.60546875,3
+DCWM (ours),walker-walk,1676000.0,979.423828125,3
+DCWM (ours),walker-walk,1701000.0,978.1070556640624,3
+DCWM (ours),walker-walk,1726000.0,979.2619018554688,3
+DCWM (ours),walker-walk,1751000.0,973.73486328125,3
+DCWM (ours),walker-walk,1776000.0,980.8795166015624,3
+DCWM (ours),walker-walk,1801000.0,981.9945678710938,3
+DCWM (ours),walker-walk,1826000.0,983.8092651367188,3
+DCWM (ours),walker-walk,1851000.0,985.1325073242188,3
+DCWM (ours),walker-walk,1876000.0,969.2777709960938,3
+DCWM (ours),walker-walk,1901000.0,973.4423217773438,3
+DCWM (ours),walker-walk,1926000.0,983.9171752929688,3
+DCWM (ours),walker-walk,1951000.0,981.9085083007812,3
+DCWM (ours),walker-walk,1976000.0,972.7377319335938,3
+DCWM (ours),walker-walk,2001000.0,976.4325561523438,3
+DCWM (ours),walker-walk,2026000.0,984.4885864257812,3
+DCWM (ours),walker-walk,2051000.0,980.8800048828124,3
+DCWM (ours),walker-walk,2076000.0,973.5033569335938,3
+DCWM (ours),walker-walk,2101000.0,980.8510131835938,3
+DCWM (ours),walker-walk,2126000.0,971.4822387695312,3
+DCWM (ours),walker-walk,2151000.0,973.0199584960938,3
+DCWM (ours),walker-walk,2176000.0,984.40673828125,3
+DCWM (ours),walker-walk,2201000.0,985.6267700195312,3
+DCWM (ours),walker-walk,2226000.0,982.4932861328124,3
+DCWM (ours),walker-walk,2251000.0,982.6627197265624,3
+DCWM (ours),walker-walk,2276000.0,971.9987182617188,3
+DCWM (ours),walker-walk,2301000.0,983.4904174804688,3
+DCWM (ours),walker-walk,2326000.0,977.4654541015624,3
+DCWM (ours),walker-walk,2351000.0,981.5512084960938,3
+DCWM (ours),walker-walk,2376000.0,981.1329956054688,3
+DCWM (ours),walker-walk,2401000.0,978.6558837890624,3
+DCWM (ours),walker-walk,2426000.0,979.7006225585938,3
+DCWM (ours),walker-walk,2451000.0,977.5780639648438,3
+DCWM (ours),walker-walk,2476000.0,979.5450439453124,3
+DCWM (ours),walker-walk,2501000.0,965.7498168945312,3
+DCWM (ours),walker-walk,2526000.0,980.88916015625,3
+DCWM (ours),walker-walk,2551000.0,986.5370483398438,3
+DCWM (ours),walker-walk,2576000.0,980.4166259765624,3
+DCWM (ours),walker-walk,2601000.0,985.3529663085938,3
+DCWM (ours),walker-walk,2626000.0,984.7101440429688,3
+DCWM (ours),walker-walk,2651000.0,982.228515625,3
+DCWM (ours),walker-walk,2676000.0,979.9464111328124,3
+DCWM (ours),walker-walk,2701000.0,981.3253784179688,3
+DCWM (ours),walker-walk,2726000.0,984.3707275390624,3
+DCWM (ours),walker-walk,2751000.0,979.3010864257812,3
+DCWM (ours),walker-walk,2776000.0,979.5498046875,3
+DCWM (ours),walker-walk,2801000.0,979.1062622070312,3
+DCWM (ours),walker-walk,2826000.0,970.3488159179688,3
+DCWM (ours),walker-walk,2851000.0,978.7406616210938,3
+DCWM (ours),walker-walk,2876000.0,985.2335815429688,3
+DCWM (ours),walker-walk,2901000.0,986.3670043945312,3
+DCWM (ours),walker-walk,2926000.0,983.0347900390624,3
+DCWM (ours),walker-walk,2951000.0,978.9254150390624,3
+DCWM (ours),walker-walk,2976000.0,989.3936767578124,3
+DCWM (ours),walker-walk,3001000.0,978.2160034179688,3
+DCWM (ours),walker-walk,3026000.0,981.18603515625,3
+DCWM (ours),walker-walk,3051000.0,976.8375854492188,3
+DCWM (ours),walker-walk,3076000.0,984.9841918945312,3
+DCWM (ours),walker-walk,3101000.0,978.81689453125,3
+DCWM (ours),walker-walk,3126000.0,978.9172973632812,3
+DCWM (ours),walker-walk,3151000.0,982.0568237304688,3
+DCWM (ours),walker-walk,3176000.0,982.2033081054688,3
+DCWM (ours),walker-walk,3201000.0,978.5778198242188,3
+DCWM (ours),walker-walk,3226000.0,982.0146484375,3
+DCWM (ours),walker-walk,3251000.0,980.61767578125,3
+DCWM (ours),walker-walk,3276000.0,979.4111328125,3
+DCWM (ours),walker-walk,3301000.0,982.0810546875,3
+DCWM (ours),walker-walk,3326000.0,982.0123901367188,3
+DCWM (ours),humanoid-walk,1000.0,1.1721302270889282,1
+DCWM (ours),humanoid-walk,26000.0,1.4231443405151367,1
+DCWM (ours),humanoid-walk,51000.0,0.9452258944511414,1
+DCWM (ours),humanoid-walk,76000.0,1.3200973272323608,1
+DCWM (ours),humanoid-walk,101000.0,1.2601250410079956,1
+DCWM (ours),humanoid-walk,126000.0,1.462311029434204,1
+DCWM (ours),humanoid-walk,151000.0,2.809480667114258,1
+DCWM (ours),humanoid-walk,176000.0,4.066985607147217,1
+DCWM (ours),humanoid-walk,201000.0,66.81842803955078,1
+DCWM (ours),humanoid-walk,226000.0,124.93102264404295,1
+DCWM (ours),humanoid-walk,251000.0,171.7796173095703,1
+DCWM (ours),humanoid-walk,276000.0,167.5748291015625,1
+DCWM (ours),humanoid-walk,301000.0,215.15049743652344,1
+DCWM (ours),humanoid-walk,326000.0,258.1921081542969,1
+DCWM (ours),humanoid-walk,351000.0,304.1295471191406,1
+DCWM (ours),humanoid-walk,376000.0,360.27911376953125,1
+DCWM (ours),humanoid-walk,401000.0,367.1916198730469,1
+DCWM (ours),humanoid-walk,426000.0,466.4070434570313,1
+DCWM (ours),humanoid-walk,451000.0,521.1842041015625,1
+DCWM (ours),humanoid-walk,476000.0,567.8161010742188,1
+DCWM (ours),humanoid-walk,501000.0,608.7471923828125,1
+DCWM (ours),humanoid-walk,526000.0,681.5013427734375,1
+DCWM (ours),humanoid-walk,551000.0,680.291259765625,1
+DCWM (ours),humanoid-walk,576000.0,662.3815307617188,1
+DCWM (ours),humanoid-walk,601000.0,763.8560791015625,1
+DCWM (ours),humanoid-walk,626000.0,764.2969970703125,1
+DCWM (ours),humanoid-walk,651000.0,774.860595703125,1
+DCWM (ours),humanoid-walk,676000.0,761.3483276367188,1
+DCWM (ours),humanoid-walk,701000.0,745.7494506835938,1
+DCWM (ours),humanoid-walk,726000.0,754.512939453125,1
+DCWM (ours),humanoid-walk,751000.0,844.2783203125,1
+DCWM (ours),humanoid-walk,776000.0,801.6528930664062,1
+DCWM (ours),humanoid-walk,801000.0,843.2577514648438,1
+DCWM (ours),humanoid-walk,826000.0,863.1964721679688,1
+DCWM (ours),humanoid-walk,851000.0,848.0975952148438,1
+DCWM (ours),humanoid-walk,876000.0,865.3163452148438,1
+DCWM (ours),humanoid-walk,901000.0,855.693359375,1
+DCWM (ours),humanoid-walk,926000.0,849.3424072265625,1
+DCWM (ours),humanoid-walk,951000.0,871.6843872070312,1
+DCWM (ours),humanoid-walk,976000.0,876.1912231445312,1
+DCWM (ours),humanoid-walk,1001000.0,887.4367065429688,1
+DCWM (ours),humanoid-walk,1026000.0,889.3648681640625,1
+DCWM (ours),humanoid-walk,1051000.0,866.43896484375,1
+DCWM (ours),humanoid-walk,1076000.0,871.1953125,1
+DCWM (ours),humanoid-walk,1101000.0,903.3494262695312,1
+DCWM (ours),humanoid-walk,1126000.0,876.8527221679688,1
+DCWM (ours),humanoid-walk,1151000.0,865.6762084960938,1
+DCWM (ours),humanoid-walk,1176000.0,884.6407470703125,1
+DCWM (ours),humanoid-walk,1201000.0,888.6232299804688,1
+DCWM (ours),humanoid-walk,1226000.0,879.7147827148438,1
+DCWM (ours),humanoid-walk,1251000.0,868.18896484375,1
+DCWM (ours),humanoid-walk,1276000.0,896.97900390625,1
+DCWM (ours),humanoid-walk,1301000.0,879.8991088867188,1
+DCWM (ours),humanoid-walk,1326000.0,899.22216796875,1
+DCWM (ours),humanoid-walk,1351000.0,867.3244018554688,1
+DCWM (ours),humanoid-walk,1376000.0,895.2478637695312,1
+DCWM (ours),humanoid-walk,1401000.0,901.9619140625,1
+DCWM (ours),humanoid-walk,1426000.0,907.5277709960938,1
+DCWM (ours),humanoid-walk,1451000.0,908.5258178710938,1
+DCWM (ours),humanoid-walk,1476000.0,911.1253051757812,1
+DCWM (ours),humanoid-walk,1501000.0,915.6978759765624,1
+DCWM (ours),humanoid-walk,1526000.0,915.0924072265624,1
+DCWM (ours),humanoid-walk,1551000.0,906.0662231445312,1
+DCWM (ours),humanoid-walk,1576000.0,910.6671752929688,1
+DCWM (ours),humanoid-walk,1601000.0,904.7675170898438,1
+DCWM (ours),humanoid-walk,1626000.0,911.0498046875,1
+DCWM (ours),humanoid-walk,1651000.0,915.47509765625,1
+DCWM (ours),humanoid-walk,1676000.0,907.9415893554688,1
+DCWM (ours),humanoid-walk,1701000.0,920.6132202148438,1
+DCWM (ours),humanoid-walk,1726000.0,920.7158203125,1
+DCWM (ours),humanoid-walk,1751000.0,922.3417358398438,1
+DCWM (ours),humanoid-walk,1776000.0,919.58984375,1
+DCWM (ours),humanoid-walk,1801000.0,905.7127075195312,1
+DCWM (ours),humanoid-walk,1826000.0,918.2314453125,1
+DCWM (ours),humanoid-walk,1851000.0,920.3341064453124,1
+DCWM (ours),humanoid-walk,1876000.0,923.0128784179688,1
+DCWM (ours),humanoid-walk,1901000.0,922.11474609375,1
+DCWM (ours),humanoid-walk,1926000.0,923.2229614257812,1
+DCWM (ours),humanoid-walk,1951000.0,915.9796142578124,1
+DCWM (ours),humanoid-walk,1976000.0,910.7853393554688,1
+DCWM (ours),humanoid-walk,2001000.0,924.0363159179688,1
+DCWM (ours),humanoid-walk,2026000.0,921.7097778320312,1
+DCWM (ours),humanoid-walk,2051000.0,927.19970703125,1
+DCWM (ours),humanoid-walk,2076000.0,926.1371459960938,1
+DCWM (ours),humanoid-walk,2101000.0,910.0505981445312,1
+DCWM (ours),humanoid-walk,2126000.0,923.8640747070312,1
+DCWM (ours),humanoid-walk,2151000.0,918.9326171875,1
+DCWM (ours),humanoid-walk,2176000.0,922.1935424804688,1
+DCWM (ours),humanoid-walk,2201000.0,917.6908569335938,1
+DCWM (ours),humanoid-walk,2226000.0,919.6433715820312,1
+DCWM (ours),humanoid-walk,2251000.0,930.8357543945312,1
+DCWM (ours),humanoid-walk,2276000.0,916.38818359375,1
+DCWM (ours),humanoid-walk,2301000.0,922.60986328125,1
+DCWM (ours),humanoid-walk,2326000.0,926.4724731445312,1
+DCWM (ours),humanoid-walk,2351000.0,924.4990234375,1
+DCWM (ours),humanoid-walk,2376000.0,925.46923828125,1
+DCWM (ours),humanoid-walk,2401000.0,921.1282348632812,1
+DCWM (ours),humanoid-walk,2426000.0,928.6936645507812,1
+DCWM (ours),humanoid-walk,2451000.0,920.3263549804688,1
+DCWM (ours),humanoid-walk,2476000.0,928.5863647460938,1
+DCWM (ours),humanoid-walk,2501000.0,923.8603515625,1
+DCWM (ours),humanoid-walk,2526000.0,925.8255004882812,1
+DCWM (ours),humanoid-walk,2551000.0,927.3870239257812,1
+DCWM (ours),humanoid-walk,2576000.0,923.7888793945312,1
+DCWM (ours),humanoid-walk,2601000.0,922.3275756835938,1
+DCWM (ours),humanoid-walk,2626000.0,919.7560424804688,1
+DCWM (ours),humanoid-walk,2651000.0,920.8203125,1
+DCWM (ours),humanoid-walk,2676000.0,918.7177734375,1
+DCWM (ours),humanoid-walk,2701000.0,924.2492065429688,1
+DCWM (ours),humanoid-walk,2726000.0,926.1138916015624,1
+DCWM (ours),humanoid-walk,2751000.0,923.58203125,1
+DCWM (ours),humanoid-walk,2776000.0,926.63720703125,1
+DCWM (ours),humanoid-walk,2801000.0,928.7044067382812,1
+DCWM (ours),humanoid-walk,2826000.0,915.5615234375,1
+DCWM (ours),humanoid-walk,2851000.0,923.146484375,1
+DCWM (ours),humanoid-walk,2876000.0,932.0416259765624,1
+DCWM (ours),humanoid-walk,2901000.0,926.9019775390624,1
+DCWM (ours),humanoid-walk,2926000.0,928.6537475585938,1
+DCWM (ours),humanoid-walk,2951000.0,916.5205078125,1
+DCWM (ours),humanoid-walk,2976000.0,928.4832153320312,1
+DCWM (ours),humanoid-walk,3001000.0,922.8408203125,1
+DCWM (ours),humanoid-walk,3026000.0,929.4461059570312,1
+DCWM (ours),humanoid-walk,3051000.0,923.8517456054688,1
+DCWM (ours),humanoid-walk,3076000.0,921.06298828125,1
+DCWM (ours),humanoid-walk,3101000.0,928.5319213867188,1
+DCWM (ours),humanoid-walk,3126000.0,920.7687377929688,1
+DCWM (ours),humanoid-walk,3151000.0,931.9112548828124,1
+DCWM (ours),humanoid-walk,3176000.0,932.25439453125,1
+DCWM (ours),humanoid-walk,3201000.0,930.4610595703124,1
+DCWM (ours),humanoid-walk,3226000.0,922.9861450195312,1
+DCWM (ours),humanoid-walk,3251000.0,930.201171875,1
+DCWM (ours),humanoid-walk,3276000.0,924.7486572265624,1
+DCWM (ours),humanoid-walk,3301000.0,913.806640625,1
+DCWM (ours),humanoid-walk,3326000.0,922.0877075195312,1
+DCWM (ours),humanoid-walk,3351000.0,927.677734375,1
+DCWM (ours),humanoid-walk,1000.0,0.9136838912963868,2
+DCWM (ours),humanoid-walk,26000.0,1.184466004371643,2
+DCWM (ours),humanoid-walk,51000.0,1.251102089881897,2
+DCWM (ours),humanoid-walk,76000.0,1.2605208158493042,2
+DCWM (ours),humanoid-walk,101000.0,0.9525214433670044,2
+DCWM (ours),humanoid-walk,126000.0,2.8470380306243896,2
+DCWM (ours),humanoid-walk,151000.0,12.932011604309082,2
+DCWM (ours),humanoid-walk,176000.0,48.0966911315918,2
+DCWM (ours),humanoid-walk,201000.0,86.18962860107422,2
+DCWM (ours),humanoid-walk,226000.0,105.5059585571289,2
+DCWM (ours),humanoid-walk,251000.0,148.1157684326172,2
+DCWM (ours),humanoid-walk,276000.0,188.98355102539065,2
+DCWM (ours),humanoid-walk,301000.0,213.7475128173828,2
+DCWM (ours),humanoid-walk,326000.0,251.39024353027344,2
+DCWM (ours),humanoid-walk,351000.0,275.1600341796875,2
+DCWM (ours),humanoid-walk,376000.0,318.3050231933594,2
+DCWM (ours),humanoid-walk,401000.0,361.6802673339844,2
+DCWM (ours),humanoid-walk,426000.0,442.1593933105469,2
+DCWM (ours),humanoid-walk,451000.0,464.6329040527344,2
+DCWM (ours),humanoid-walk,476000.0,476.25634765625,2
+DCWM (ours),humanoid-walk,501000.0,591.5848388671875,2
+DCWM (ours),humanoid-walk,526000.0,604.6143188476562,2
+DCWM (ours),humanoid-walk,551000.0,621.8247680664062,2
+DCWM (ours),humanoid-walk,576000.0,698.4498291015625,2
+DCWM (ours),humanoid-walk,601000.0,746.2066040039062,2
+DCWM (ours),humanoid-walk,626000.0,783.0599975585938,2
+DCWM (ours),humanoid-walk,651000.0,803.7042846679688,2
+DCWM (ours),humanoid-walk,676000.0,849.2779541015625,2
+DCWM (ours),humanoid-walk,701000.0,866.1464233398438,2
+DCWM (ours),humanoid-walk,726000.0,858.3764038085938,2
+DCWM (ours),humanoid-walk,751000.0,865.0494384765625,2
+DCWM (ours),humanoid-walk,776000.0,884.9857788085938,2
+DCWM (ours),humanoid-walk,801000.0,859.95703125,2
+DCWM (ours),humanoid-walk,826000.0,893.2639770507812,2
+DCWM (ours),humanoid-walk,851000.0,880.5302734375,2
+DCWM (ours),humanoid-walk,876000.0,890.3819580078125,2
+DCWM (ours),humanoid-walk,901000.0,885.4052734375,2
+DCWM (ours),humanoid-walk,926000.0,889.4892578125,2
+DCWM (ours),humanoid-walk,951000.0,886.01318359375,2
+DCWM (ours),humanoid-walk,976000.0,885.7486572265625,2
+DCWM (ours),humanoid-walk,1001000.0,875.92333984375,2
+DCWM (ours),humanoid-walk,1026000.0,899.2447509765625,2
+DCWM (ours),humanoid-walk,1051000.0,894.6900634765625,2
+DCWM (ours),humanoid-walk,1076000.0,903.1649780273438,2
+DCWM (ours),humanoid-walk,1101000.0,897.9627075195312,2
+DCWM (ours),humanoid-walk,1126000.0,902.1103515625,2
+DCWM (ours),humanoid-walk,1151000.0,873.2443237304688,2
+DCWM (ours),humanoid-walk,1176000.0,899.0699462890625,2
+DCWM (ours),humanoid-walk,1201000.0,912.6869506835938,2
+DCWM (ours),humanoid-walk,1226000.0,903.99365234375,2
+DCWM (ours),humanoid-walk,1251000.0,898.7658081054688,2
+DCWM (ours),humanoid-walk,1276000.0,920.849609375,2
+DCWM (ours),humanoid-walk,1301000.0,929.8030395507812,2
+DCWM (ours),humanoid-walk,1326000.0,905.97021484375,2
+DCWM (ours),humanoid-walk,1351000.0,902.345703125,2
+DCWM (ours),humanoid-walk,1376000.0,915.5087890625,2
+DCWM (ours),humanoid-walk,1401000.0,918.83837890625,2
+DCWM (ours),humanoid-walk,1426000.0,913.5651245117188,2
+DCWM (ours),humanoid-walk,1451000.0,911.5572509765624,2
+DCWM (ours),humanoid-walk,1476000.0,907.7786254882812,2
+DCWM (ours),humanoid-walk,1501000.0,916.5150756835938,2
+DCWM (ours),humanoid-walk,1526000.0,918.3666381835938,2
+DCWM (ours),humanoid-walk,1551000.0,926.0027465820312,2
+DCWM (ours),humanoid-walk,1576000.0,925.0098876953124,2
+DCWM (ours),humanoid-walk,1601000.0,926.8054809570312,2
+DCWM (ours),humanoid-walk,1626000.0,900.0333251953125,2
+DCWM (ours),humanoid-walk,1651000.0,926.3539428710938,2
+DCWM (ours),humanoid-walk,1676000.0,927.4978637695312,2
+DCWM (ours),humanoid-walk,1701000.0,924.37353515625,2
+DCWM (ours),humanoid-walk,1726000.0,920.1746215820312,2
+DCWM (ours),humanoid-walk,1751000.0,931.171875,2
+DCWM (ours),humanoid-walk,1776000.0,935.7736206054688,2
+DCWM (ours),humanoid-walk,1801000.0,933.6264038085938,2
+DCWM (ours),humanoid-walk,1826000.0,921.5867309570312,2
+DCWM (ours),humanoid-walk,1851000.0,921.3904418945312,2
+DCWM (ours),humanoid-walk,1876000.0,939.4382934570312,2
+DCWM (ours),humanoid-walk,1901000.0,924.8623046875,2
+DCWM (ours),humanoid-walk,1926000.0,917.5932006835938,2
+DCWM (ours),humanoid-walk,1951000.0,924.6953125,2
+DCWM (ours),humanoid-walk,1976000.0,909.9999389648438,2
+DCWM (ours),humanoid-walk,2001000.0,938.3998413085938,2
+DCWM (ours),humanoid-walk,2026000.0,913.6058959960938,2
+DCWM (ours),humanoid-walk,2051000.0,918.7355346679688,2
+DCWM (ours),humanoid-walk,2076000.0,910.1134643554688,2
+DCWM (ours),humanoid-walk,2101000.0,920.2514038085938,2
+DCWM (ours),humanoid-walk,2126000.0,919.40185546875,2
+DCWM (ours),humanoid-walk,2151000.0,929.8005981445312,2
+DCWM (ours),humanoid-walk,2176000.0,929.7501831054688,2
+DCWM (ours),humanoid-walk,2201000.0,935.0795288085938,2
+DCWM (ours),humanoid-walk,2226000.0,926.8302612304688,2
+DCWM (ours),humanoid-walk,2251000.0,926.27001953125,2
+DCWM (ours),humanoid-walk,2276000.0,934.4103393554688,2
+DCWM (ours),humanoid-walk,2301000.0,928.16796875,2
+DCWM (ours),humanoid-walk,2326000.0,932.9474487304688,2
+DCWM (ours),humanoid-walk,2351000.0,924.8992309570312,2
+DCWM (ours),humanoid-walk,2376000.0,927.5029296875,2
+DCWM (ours),humanoid-walk,2401000.0,932.3191528320312,2
+DCWM (ours),humanoid-walk,2426000.0,934.396484375,2
+DCWM (ours),humanoid-walk,2451000.0,926.4729614257812,2
+DCWM (ours),humanoid-walk,2476000.0,917.6387939453124,2
+DCWM (ours),humanoid-walk,2501000.0,925.7556762695312,2
+DCWM (ours),humanoid-walk,2526000.0,932.8976440429688,2
+DCWM (ours),humanoid-walk,2551000.0,934.1137084960938,2
+DCWM (ours),humanoid-walk,2576000.0,932.9598999023438,2
+DCWM (ours),humanoid-walk,2601000.0,920.9781494140624,2
+DCWM (ours),humanoid-walk,2626000.0,935.8779296875,2
+DCWM (ours),humanoid-walk,2651000.0,930.4164428710938,2
+DCWM (ours),humanoid-walk,2676000.0,937.9254150390624,2
+DCWM (ours),humanoid-walk,2701000.0,927.6171875,2
+DCWM (ours),humanoid-walk,2726000.0,931.7041015625,2
+DCWM (ours),humanoid-walk,2751000.0,933.4725952148438,2
+DCWM (ours),humanoid-walk,2776000.0,931.1182861328124,2
+DCWM (ours),humanoid-walk,2801000.0,929.64208984375,2
+DCWM (ours),humanoid-walk,2826000.0,935.9371337890624,2
+DCWM (ours),humanoid-walk,2851000.0,928.8381958007812,2
+DCWM (ours),humanoid-walk,2876000.0,922.2086181640624,2
+DCWM (ours),humanoid-walk,2901000.0,936.4050903320312,2
+DCWM (ours),humanoid-walk,2926000.0,933.1819458007812,2
+DCWM (ours),humanoid-walk,2951000.0,932.4486694335938,2
+DCWM (ours),humanoid-walk,2976000.0,929.7919921875,2
+DCWM (ours),humanoid-walk,3001000.0,944.4967041015624,2
+DCWM (ours),humanoid-walk,3026000.0,930.88037109375,2
+DCWM (ours),humanoid-walk,3051000.0,928.8710327148438,2
+DCWM (ours),humanoid-walk,3076000.0,932.8510131835938,2
+DCWM (ours),humanoid-walk,3101000.0,927.5802612304688,2
+DCWM (ours),humanoid-walk,3126000.0,927.3765869140624,2
+DCWM (ours),humanoid-walk,3151000.0,927.4220581054688,2
+DCWM (ours),humanoid-walk,3176000.0,932.0968017578124,2
+DCWM (ours),humanoid-walk,3201000.0,925.2955932617188,2
+DCWM (ours),humanoid-walk,3226000.0,935.3523559570312,2
+DCWM (ours),humanoid-walk,3251000.0,925.9953002929688,2
+DCWM (ours),humanoid-walk,3276000.0,934.43798828125,2
+DCWM (ours),humanoid-walk,3301000.0,932.6339721679688,2
+DCWM (ours),humanoid-walk,3326000.0,932.5382690429688,2
+DCWM (ours),humanoid-walk,3351000.0,930.8255004882812,2
+DCWM (ours),humanoid-walk,1000.0,0.9500466585159302,3
+DCWM (ours),humanoid-walk,26000.0,1.1538587808609009,3
+DCWM (ours),humanoid-walk,51000.0,1.1013725996017456,3
+DCWM (ours),humanoid-walk,76000.0,1.478484034538269,3
+DCWM (ours),humanoid-walk,101000.0,1.3487075567245483,3
+DCWM (ours),humanoid-walk,126000.0,2.320915937423706,3
+DCWM (ours),humanoid-walk,151000.0,1.2337735891342163,3
+DCWM (ours),humanoid-walk,176000.0,9.148422241210938,3
+DCWM (ours),humanoid-walk,201000.0,45.252647399902344,3
+DCWM (ours),humanoid-walk,226000.0,117.87677001953124,3
+DCWM (ours),humanoid-walk,251000.0,133.9413299560547,3
+DCWM (ours),humanoid-walk,276000.0,146.69740295410156,3
+DCWM (ours),humanoid-walk,301000.0,202.63912963867188,3
+DCWM (ours),humanoid-walk,326000.0,205.56900024414065,3
+DCWM (ours),humanoid-walk,351000.0,253.755859375,3
+DCWM (ours),humanoid-walk,376000.0,291.0434875488281,3
+DCWM (ours),humanoid-walk,401000.0,375.9046325683594,3
+DCWM (ours),humanoid-walk,426000.0,458.8478698730469,3
+DCWM (ours),humanoid-walk,451000.0,502.9125061035156,3
+DCWM (ours),humanoid-walk,476000.0,552.73291015625,3
+DCWM (ours),humanoid-walk,501000.0,686.9186401367188,3
+DCWM (ours),humanoid-walk,526000.0,704.8048706054688,3
+DCWM (ours),humanoid-walk,551000.0,731.6029663085938,3
+DCWM (ours),humanoid-walk,576000.0,799.87158203125,3
+DCWM (ours),humanoid-walk,601000.0,822.4125366210938,3
+DCWM (ours),humanoid-walk,626000.0,847.7561645507812,3
+DCWM (ours),humanoid-walk,651000.0,803.4426879882812,3
+DCWM (ours),humanoid-walk,676000.0,865.4755859375,3
+DCWM (ours),humanoid-walk,701000.0,834.1708984375,3
+DCWM (ours),humanoid-walk,726000.0,799.68017578125,3
+DCWM (ours),humanoid-walk,751000.0,867.5082397460938,3
+DCWM (ours),humanoid-walk,776000.0,804.3402709960938,3
+DCWM (ours),humanoid-walk,801000.0,866.0248413085938,3
+DCWM (ours),humanoid-walk,826000.0,859.5818481445312,3
+DCWM (ours),humanoid-walk,851000.0,895.4853515625,3
+DCWM (ours),humanoid-walk,876000.0,895.9923095703125,3
+DCWM (ours),humanoid-walk,901000.0,873.3302612304688,3
+DCWM (ours),humanoid-walk,926000.0,827.2540893554688,3
+DCWM (ours),humanoid-walk,951000.0,856.0551147460938,3
+DCWM (ours),humanoid-walk,976000.0,900.9880981445312,3
+DCWM (ours),humanoid-walk,1001000.0,845.5241088867188,3
+DCWM (ours),humanoid-walk,1026000.0,856.3601684570312,3
+DCWM (ours),humanoid-walk,1051000.0,885.0531616210938,3
+DCWM (ours),humanoid-walk,1076000.0,895.2098999023438,3
+DCWM (ours),humanoid-walk,1101000.0,897.9334106445312,3
+DCWM (ours),humanoid-walk,1126000.0,902.8934936523438,3
+DCWM (ours),humanoid-walk,1151000.0,895.2029418945312,3
+DCWM (ours),humanoid-walk,1176000.0,875.8959350585938,3
+DCWM (ours),humanoid-walk,1201000.0,893.4228515625,3
+DCWM (ours),humanoid-walk,1226000.0,907.8902587890624,3
+DCWM (ours),humanoid-walk,1251000.0,888.5316772460938,3
+DCWM (ours),humanoid-walk,1276000.0,898.4236450195312,3
+DCWM (ours),humanoid-walk,1301000.0,910.7039184570312,3
+DCWM (ours),humanoid-walk,1326000.0,912.8536987304688,3
+DCWM (ours),humanoid-walk,1351000.0,902.7537231445312,3
+DCWM (ours),humanoid-walk,1376000.0,884.7438354492188,3
+DCWM (ours),humanoid-walk,1401000.0,905.6329345703124,3
+DCWM (ours),humanoid-walk,1426000.0,918.5011596679688,3
+DCWM (ours),humanoid-walk,1451000.0,896.9564819335938,3
+DCWM (ours),humanoid-walk,1476000.0,899.9138793945312,3
+DCWM (ours),humanoid-walk,1501000.0,908.3270874023438,3
+DCWM (ours),humanoid-walk,1526000.0,924.4403686523438,3
+DCWM (ours),humanoid-walk,1551000.0,924.9449462890624,3
+DCWM (ours),humanoid-walk,1576000.0,916.2554931640624,3
+DCWM (ours),humanoid-walk,1601000.0,914.7073364257812,3
+DCWM (ours),humanoid-walk,1626000.0,918.6317749023438,3
+DCWM (ours),humanoid-walk,1651000.0,925.7115478515624,3
+DCWM (ours),humanoid-walk,1676000.0,918.6332397460938,3
+DCWM (ours),humanoid-walk,1701000.0,917.5258178710938,3
+DCWM (ours),humanoid-walk,1726000.0,929.6544799804688,3
+DCWM (ours),humanoid-walk,1751000.0,926.3646850585938,3
+DCWM (ours),humanoid-walk,1776000.0,924.2219848632812,3
+DCWM (ours),humanoid-walk,1801000.0,925.498046875,3
+DCWM (ours),humanoid-walk,1826000.0,923.6217651367188,3
+DCWM (ours),humanoid-walk,1851000.0,921.8515625,3
+DCWM (ours),humanoid-walk,1876000.0,932.9386596679688,3
+DCWM (ours),humanoid-walk,1901000.0,928.4348754882812,3
+DCWM (ours),humanoid-walk,1926000.0,927.1759643554688,3
+DCWM (ours),humanoid-walk,1951000.0,927.2445678710938,3
+DCWM (ours),humanoid-walk,1976000.0,929.9373168945312,3
+DCWM (ours),humanoid-walk,2001000.0,933.2562866210938,3
+DCWM (ours),humanoid-walk,2026000.0,930.5556640625,3
+DCWM (ours),humanoid-walk,2051000.0,925.1019897460938,3
+DCWM (ours),humanoid-walk,2076000.0,933.9675903320312,3
+DCWM (ours),humanoid-walk,2101000.0,923.119140625,3
+DCWM (ours),humanoid-walk,2126000.0,934.5205078125,3
+DCWM (ours),humanoid-walk,2151000.0,924.6161499023438,3
+DCWM (ours),humanoid-walk,2176000.0,937.0269775390624,3
+DCWM (ours),humanoid-walk,2201000.0,931.9564819335938,3
+DCWM (ours),humanoid-walk,2226000.0,931.3590087890624,3
+DCWM (ours),humanoid-walk,2251000.0,937.853515625,3
+DCWM (ours),humanoid-walk,2276000.0,932.3980712890624,3
+DCWM (ours),humanoid-walk,2301000.0,924.7963256835938,3
+DCWM (ours),humanoid-walk,2326000.0,936.1845703125,3
+DCWM (ours),humanoid-walk,2351000.0,930.4049072265624,3
+DCWM (ours),humanoid-walk,2376000.0,929.2681884765624,3
+DCWM (ours),humanoid-walk,2401000.0,929.9279174804688,3
+DCWM (ours),humanoid-walk,2426000.0,924.3019409179688,3
+DCWM (ours),humanoid-walk,2451000.0,929.38525390625,3
+DCWM (ours),humanoid-walk,2476000.0,929.80224609375,3
+DCWM (ours),humanoid-walk,2501000.0,928.6652221679688,3
+DCWM (ours),humanoid-walk,2526000.0,933.4332275390624,3
+DCWM (ours),humanoid-walk,2551000.0,918.8804931640624,3
+DCWM (ours),humanoid-walk,2576000.0,923.65234375,3
+DCWM (ours),humanoid-walk,2601000.0,935.1996459960938,3
+DCWM (ours),humanoid-walk,2626000.0,934.5494384765624,3
+DCWM (ours),humanoid-walk,2651000.0,928.9638671875,3
+DCWM (ours),humanoid-walk,2676000.0,925.673828125,3
+DCWM (ours),humanoid-walk,2701000.0,933.7897338867188,3
+DCWM (ours),humanoid-walk,2726000.0,935.0391845703124,3
+DCWM (ours),humanoid-walk,2751000.0,921.7650756835938,3
+DCWM (ours),humanoid-walk,2776000.0,922.8251953125,3
+DCWM (ours),humanoid-walk,2801000.0,931.8111572265624,3
+DCWM (ours),humanoid-walk,2826000.0,930.5189819335938,3
+DCWM (ours),humanoid-walk,2851000.0,928.6941528320312,3
+DCWM (ours),humanoid-walk,2876000.0,930.9365234375,3
+DCWM (ours),humanoid-walk,2901000.0,918.1404418945312,3
+DCWM (ours),humanoid-walk,2926000.0,928.7494506835938,3
+DCWM (ours),humanoid-walk,2951000.0,931.3191528320312,3
+DCWM (ours),humanoid-walk,2976000.0,919.7346801757812,3
+DCWM (ours),humanoid-walk,3001000.0,930.9181518554688,3
+DCWM (ours),humanoid-walk,3026000.0,933.47119140625,3
+DCWM (ours),humanoid-walk,3051000.0,927.9825439453124,3
+DCWM (ours),humanoid-walk,3076000.0,926.4384155273438,3
+DCWM (ours),humanoid-walk,3101000.0,924.6290283203124,3
+DCWM (ours),humanoid-walk,3126000.0,930.0414428710938,3
+DCWM (ours),humanoid-walk,3151000.0,928.9295043945312,3
+DCWM (ours),humanoid-walk,3176000.0,929.1357421875,3
+DCWM (ours),humanoid-walk,3201000.0,932.7769775390624,3
+DCWM (ours),humanoid-walk,3226000.0,929.2608642578124,3
+DCWM (ours),humanoid-walk,3251000.0,937.6049194335938,3
+DCWM (ours),humanoid-walk,3276000.0,924.41796875,3
+DCWM (ours),humanoid-walk,3301000.0,938.2166137695312,3
+DCWM (ours),dog-run,1000.0,5.333414554595947,1
+DCWM (ours),dog-run,26000.0,14.990389823913574,1
+DCWM (ours),dog-run,51000.0,10.268385887145996,1
+DCWM (ours),dog-run,76000.0,37.7884521484375,1
+DCWM (ours),dog-run,101000.0,76.87647247314453,1
+DCWM (ours),dog-run,126000.0,89.87618255615234,1
+DCWM (ours),dog-run,151000.0,104.4972915649414,1
+DCWM (ours),dog-run,176000.0,107.036865234375,1
+DCWM (ours),dog-run,201000.0,127.69831848144533,1
+DCWM (ours),dog-run,226000.0,135.9528350830078,1
+DCWM (ours),dog-run,251000.0,154.0646209716797,1
+DCWM (ours),dog-run,276000.0,161.01467895507812,1
+DCWM (ours),dog-run,301000.0,177.4203338623047,1
+DCWM (ours),dog-run,326000.0,188.6354827880859,1
+DCWM (ours),dog-run,351000.0,197.4909515380859,1
+DCWM (ours),dog-run,376000.0,214.1415100097656,1
+DCWM (ours),dog-run,401000.0,221.3332366943359,1
+DCWM (ours),dog-run,426000.0,264.2154541015625,1
+DCWM (ours),dog-run,451000.0,289.6017150878906,1
+DCWM (ours),dog-run,476000.0,324.8731384277344,1
+DCWM (ours),dog-run,501000.0,354.6311950683594,1
+DCWM (ours),dog-run,526000.0,367.5437622070313,1
+DCWM (ours),dog-run,551000.0,390.8070983886719,1
+DCWM (ours),dog-run,576000.0,407.8097839355469,1
+DCWM (ours),dog-run,601000.0,394.18011474609375,1
+DCWM (ours),dog-run,626000.0,443.5150451660156,1
+DCWM (ours),dog-run,651000.0,428.95263671875,1
+DCWM (ours),dog-run,676000.0,443.2272644042969,1
+DCWM (ours),dog-run,701000.0,445.9263610839844,1
+DCWM (ours),dog-run,726000.0,445.6146545410156,1
+DCWM (ours),dog-run,751000.0,449.9172058105469,1
+DCWM (ours),dog-run,776000.0,471.0097351074219,1
+DCWM (ours),dog-run,801000.0,488.55322265625,1
+DCWM (ours),dog-run,826000.0,495.3737487792969,1
+DCWM (ours),dog-run,851000.0,481.90435791015625,1
+DCWM (ours),dog-run,876000.0,499.0464782714844,1
+DCWM (ours),dog-run,901000.0,476.8507995605469,1
+DCWM (ours),dog-run,926000.0,509.24462890625,1
+DCWM (ours),dog-run,951000.0,512.1102905273438,1
+DCWM (ours),dog-run,976000.0,469.0418395996094,1
+DCWM (ours),dog-run,1001000.0,524.2940673828125,1
+DCWM (ours),dog-run,1026000.0,499.2868347167969,1
+DCWM (ours),dog-run,1051000.0,504.5843811035156,1
+DCWM (ours),dog-run,1076000.0,538.6023559570312,1
+DCWM (ours),dog-run,1101000.0,534.0613403320312,1
+DCWM (ours),dog-run,1126000.0,523.0761108398438,1
+DCWM (ours),dog-run,1151000.0,499.1875,1
+DCWM (ours),dog-run,1176000.0,523.6488647460938,1
+DCWM (ours),dog-run,1201000.0,526.5572509765625,1
+DCWM (ours),dog-run,1226000.0,540.6861572265625,1
+DCWM (ours),dog-run,1251000.0,527.7269287109375,1
+DCWM (ours),dog-run,1276000.0,558.82666015625,1
+DCWM (ours),dog-run,1301000.0,534.8853149414062,1
+DCWM (ours),dog-run,1326000.0,531.70361328125,1
+DCWM (ours),dog-run,1351000.0,531.5159912109375,1
+DCWM (ours),dog-run,1376000.0,540.4330444335938,1
+DCWM (ours),dog-run,1401000.0,536.6823120117188,1
+DCWM (ours),dog-run,1426000.0,547.6500854492188,1
+DCWM (ours),dog-run,1451000.0,563.319580078125,1
+DCWM (ours),dog-run,1476000.0,552.2454223632812,1
+DCWM (ours),dog-run,1501000.0,553.5196533203125,1
+DCWM (ours),dog-run,1526000.0,546.60791015625,1
+DCWM (ours),dog-run,1551000.0,557.3009643554688,1
+DCWM (ours),dog-run,1576000.0,553.5484008789062,1
+DCWM (ours),dog-run,1601000.0,569.9561157226562,1
+DCWM (ours),dog-run,1626000.0,563.111083984375,1
+DCWM (ours),dog-run,1651000.0,552.5145263671875,1
+DCWM (ours),dog-run,1676000.0,544.9069213867188,1
+DCWM (ours),dog-run,1701000.0,568.4417114257812,1
+DCWM (ours),dog-run,1726000.0,552.8562622070312,1
+DCWM (ours),dog-run,1751000.0,566.5363159179688,1
+DCWM (ours),dog-run,1776000.0,552.0930786132812,1
+DCWM (ours),dog-run,1801000.0,552.8045043945312,1
+DCWM (ours),dog-run,1826000.0,578.138671875,1
+DCWM (ours),dog-run,1851000.0,559.6398315429688,1
+DCWM (ours),dog-run,1876000.0,572.8363647460938,1
+DCWM (ours),dog-run,1901000.0,556.6589965820312,1
+DCWM (ours),dog-run,1926000.0,580.4469604492188,1
+DCWM (ours),dog-run,1951000.0,550.2061157226562,1
+DCWM (ours),dog-run,1976000.0,588.7723999023438,1
+DCWM (ours),dog-run,2001000.0,592.4879760742188,1
+DCWM (ours),dog-run,2026000.0,580.2213745117188,1
+DCWM (ours),dog-run,2051000.0,607.8970947265625,1
+DCWM (ours),dog-run,2076000.0,614.92822265625,1
+DCWM (ours),dog-run,2101000.0,587.0613403320312,1
+DCWM (ours),dog-run,2126000.0,593.1616821289062,1
+DCWM (ours),dog-run,2151000.0,601.5587768554688,1
+DCWM (ours),dog-run,2176000.0,578.8432006835938,1
+DCWM (ours),dog-run,2201000.0,615.1060791015625,1
+DCWM (ours),dog-run,2226000.0,607.3466186523438,1
+DCWM (ours),dog-run,2251000.0,600.1622314453125,1
+DCWM (ours),dog-run,2276000.0,614.171142578125,1
+DCWM (ours),dog-run,2301000.0,615.2794189453125,1
+DCWM (ours),dog-run,2326000.0,605.9912719726562,1
+DCWM (ours),dog-run,2351000.0,616.9496459960938,1
+DCWM (ours),dog-run,2376000.0,623.6751098632812,1
+DCWM (ours),dog-run,2401000.0,617.0758056640625,1
+DCWM (ours),dog-run,2426000.0,618.0249633789062,1
+DCWM (ours),dog-run,2451000.0,622.9514770507812,1
+DCWM (ours),dog-run,2476000.0,649.8306884765625,1
+DCWM (ours),dog-run,2501000.0,643.3843383789062,1
+DCWM (ours),dog-run,2526000.0,646.7572631835938,1
+DCWM (ours),dog-run,2551000.0,665.0836791992188,1
+DCWM (ours),dog-run,2576000.0,608.3790893554688,1
+DCWM (ours),dog-run,2601000.0,615.5595092773438,1
+DCWM (ours),dog-run,2626000.0,644.3502197265625,1
+DCWM (ours),dog-run,2651000.0,639.1187133789062,1
+DCWM (ours),dog-run,2676000.0,621.2101440429688,1
+DCWM (ours),dog-run,2701000.0,641.1158447265625,1
+DCWM (ours),dog-run,2726000.0,636.181640625,1
+DCWM (ours),dog-run,2751000.0,647.6512451171875,1
+DCWM (ours),dog-run,2776000.0,632.4213256835938,1
+DCWM (ours),dog-run,2801000.0,604.0823364257812,1
+DCWM (ours),dog-run,2826000.0,650.5383911132812,1
+DCWM (ours),dog-run,2851000.0,646.1864013671875,1
+DCWM (ours),dog-run,2876000.0,632.7335815429688,1
+DCWM (ours),dog-run,2901000.0,637.8688354492188,1
+DCWM (ours),dog-run,1000.0,4.389065742492676,2
+DCWM (ours),dog-run,26000.0,5.293847560882568,2
+DCWM (ours),dog-run,51000.0,17.2064151763916,2
+DCWM (ours),dog-run,76000.0,36.418983459472656,2
+DCWM (ours),dog-run,101000.0,57.390846252441406,2
+DCWM (ours),dog-run,126000.0,65.4533920288086,2
+DCWM (ours),dog-run,151000.0,81.14219665527344,2
+DCWM (ours),dog-run,176000.0,95.0656967163086,2
+DCWM (ours),dog-run,201000.0,99.2602767944336,2
+DCWM (ours),dog-run,226000.0,116.40947723388672,2
+DCWM (ours),dog-run,251000.0,129.5204620361328,2
+DCWM (ours),dog-run,276000.0,141.36273193359375,2
+DCWM (ours),dog-run,301000.0,148.939453125,2
+DCWM (ours),dog-run,326000.0,150.18287658691406,2
+DCWM (ours),dog-run,351000.0,155.83316040039062,2
+DCWM (ours),dog-run,376000.0,165.0785675048828,2
+DCWM (ours),dog-run,401000.0,170.2215576171875,2
+DCWM (ours),dog-run,426000.0,202.3134002685547,2
+DCWM (ours),dog-run,451000.0,217.71890258789065,2
+DCWM (ours),dog-run,476000.0,262.5552673339844,2
+DCWM (ours),dog-run,501000.0,295.9908752441406,2
+DCWM (ours),dog-run,526000.0,335.7331237792969,2
+DCWM (ours),dog-run,551000.0,342.65264892578125,2
+DCWM (ours),dog-run,576000.0,392.9752502441406,2
+DCWM (ours),dog-run,601000.0,420.3916015625,2
+DCWM (ours),dog-run,626000.0,409.02587890625,2
+DCWM (ours),dog-run,651000.0,435.4244079589844,2
+DCWM (ours),dog-run,676000.0,414.2815551757813,2
+DCWM (ours),dog-run,701000.0,384.5158081054687,2
+DCWM (ours),dog-run,726000.0,440.7385864257813,2
+DCWM (ours),dog-run,751000.0,433.72564697265625,2
+DCWM (ours),dog-run,776000.0,446.55419921875,2
+DCWM (ours),dog-run,801000.0,452.73291015625,2
+DCWM (ours),dog-run,826000.0,481.79931640625,2
+DCWM (ours),dog-run,851000.0,464.9705505371094,2
+DCWM (ours),dog-run,876000.0,485.2548828125,2
+DCWM (ours),dog-run,901000.0,469.4794921875,2
+DCWM (ours),dog-run,926000.0,453.13140869140625,2
+DCWM (ours),dog-run,951000.0,484.4454040527344,2
+DCWM (ours),dog-run,976000.0,477.11962890625,2
+DCWM (ours),dog-run,1001000.0,491.5039978027344,2
+DCWM (ours),dog-run,1026000.0,488.9096374511719,2
+DCWM (ours),dog-run,1051000.0,511.7398986816406,2
+DCWM (ours),dog-run,1076000.0,527.2982788085938,2
+DCWM (ours),dog-run,1101000.0,515.9475708007812,2
+DCWM (ours),dog-run,1126000.0,527.295166015625,2
+DCWM (ours),dog-run,1151000.0,544.6712036132812,2
+DCWM (ours),dog-run,1176000.0,541.3959350585938,2
+DCWM (ours),dog-run,1201000.0,530.5945434570312,2
+DCWM (ours),dog-run,1226000.0,536.0792236328125,2
+DCWM (ours),dog-run,1251000.0,543.41259765625,2
+DCWM (ours),dog-run,1276000.0,568.7177124023438,2
+DCWM (ours),dog-run,1301000.0,569.255859375,2
+DCWM (ours),dog-run,1326000.0,534.6173095703125,2
+DCWM (ours),dog-run,1351000.0,576.6978759765625,2
+DCWM (ours),dog-run,1376000.0,582.8912353515625,2
+DCWM (ours),dog-run,1401000.0,572.450439453125,2
+DCWM (ours),dog-run,1426000.0,556.9479370117188,2
+DCWM (ours),dog-run,1451000.0,607.0845947265625,2
+DCWM (ours),dog-run,1476000.0,572.0332641601562,2
+DCWM (ours),dog-run,1501000.0,602.6502075195312,2
+DCWM (ours),dog-run,1526000.0,595.8184204101562,2
+DCWM (ours),dog-run,1551000.0,600.9835205078125,2
+DCWM (ours),dog-run,1576000.0,579.6193237304688,2
+DCWM (ours),dog-run,1601000.0,595.2826538085938,2
+DCWM (ours),dog-run,1626000.0,591.1642456054688,2
+DCWM (ours),dog-run,1651000.0,613.7855834960938,2
+DCWM (ours),dog-run,1676000.0,619.545166015625,2
+DCWM (ours),dog-run,1701000.0,606.904296875,2
+DCWM (ours),dog-run,1726000.0,622.3650512695312,2
+DCWM (ours),dog-run,1751000.0,566.0952758789062,2
+DCWM (ours),dog-run,1776000.0,624.7189331054688,2
+DCWM (ours),dog-run,1801000.0,623.0697631835938,2
+DCWM (ours),dog-run,1826000.0,648.7208862304688,2
+DCWM (ours),dog-run,1851000.0,646.8165893554688,2
+DCWM (ours),dog-run,1876000.0,600.7426147460938,2
+DCWM (ours),dog-run,1901000.0,618.2551879882812,2
+DCWM (ours),dog-run,1926000.0,623.224365234375,2
+DCWM (ours),dog-run,1951000.0,620.1016845703125,2
+DCWM (ours),dog-run,1976000.0,629.4588012695312,2
+DCWM (ours),dog-run,2001000.0,646.3844604492188,2
+DCWM (ours),dog-run,2026000.0,606.3675537109375,2
+DCWM (ours),dog-run,2051000.0,636.5722045898438,2
+DCWM (ours),dog-run,2076000.0,614.083740234375,2
+DCWM (ours),dog-run,2101000.0,616.9117431640625,2
+DCWM (ours),dog-run,2126000.0,597.88671875,2
+DCWM (ours),dog-run,2151000.0,648.4674682617188,2
+DCWM (ours),dog-run,2176000.0,663.85205078125,2
+DCWM (ours),dog-run,2201000.0,618.5299072265625,2
+DCWM (ours),dog-run,2226000.0,635.1915893554688,2
+DCWM (ours),dog-run,2251000.0,629.0390625,2
+DCWM (ours),dog-run,2276000.0,623.8309936523438,2
+DCWM (ours),dog-run,2301000.0,659.21630859375,2
+DCWM (ours),dog-run,2326000.0,671.0714721679688,2
+DCWM (ours),dog-run,2351000.0,618.04150390625,2
+DCWM (ours),dog-run,2376000.0,644.0836181640625,2
+DCWM (ours),dog-run,2401000.0,659.8639526367188,2
+DCWM (ours),dog-run,2426000.0,647.4158325195312,2
+DCWM (ours),dog-run,2451000.0,642.669189453125,2
+DCWM (ours),dog-run,2476000.0,690.3295288085938,2
+DCWM (ours),dog-run,2501000.0,660.3893432617188,2
+DCWM (ours),dog-run,2526000.0,657.4554443359375,2
+DCWM (ours),dog-run,2551000.0,657.3987426757812,2
+DCWM (ours),dog-run,2576000.0,656.3106689453125,2
+DCWM (ours),dog-run,2601000.0,627.6070556640625,2
+DCWM (ours),dog-run,2626000.0,678.3850708007812,2
+DCWM (ours),dog-run,2651000.0,663.6452026367188,2
+DCWM (ours),dog-run,2676000.0,682.1309814453125,2
+DCWM (ours),dog-run,2701000.0,641.4623413085938,2
+DCWM (ours),dog-run,2726000.0,659.7828369140625,2
+DCWM (ours),dog-run,2751000.0,679.6924438476562,2
+DCWM (ours),dog-run,2776000.0,689.3157958984375,2
+DCWM (ours),dog-run,2801000.0,668.7865600585938,2
+DCWM (ours),dog-run,2826000.0,676.73291015625,2
+DCWM (ours),dog-run,2851000.0,654.0216674804688,2
+DCWM (ours),dog-run,2876000.0,676.431640625,2
+DCWM (ours),dog-run,2901000.0,687.8414306640625,2
+DCWM (ours),dog-run,1000.0,4.872302055358887,3
+DCWM (ours),dog-run,26000.0,5.174807548522949,3
+DCWM (ours),dog-run,51000.0,12.705056190490724,3
+DCWM (ours),dog-run,76000.0,34.59287643432617,3
+DCWM (ours),dog-run,101000.0,56.46124267578125,3
+DCWM (ours),dog-run,126000.0,75.09564971923828,3
+DCWM (ours),dog-run,151000.0,98.76847076416016,3
+DCWM (ours),dog-run,176000.0,110.94573211669922,3
+DCWM (ours),dog-run,201000.0,125.92762756347656,3
+DCWM (ours),dog-run,226000.0,128.26707458496094,3
+DCWM (ours),dog-run,251000.0,149.6566925048828,3
+DCWM (ours),dog-run,276000.0,165.9738006591797,3
+DCWM (ours),dog-run,301000.0,166.29969787597656,3
+DCWM (ours),dog-run,326000.0,170.68836975097656,3
+DCWM (ours),dog-run,351000.0,201.15591430664065,3
+DCWM (ours),dog-run,376000.0,198.1429901123047,3
+DCWM (ours),dog-run,401000.0,214.96597290039065,3
+DCWM (ours),dog-run,426000.0,263.3975830078125,3
+DCWM (ours),dog-run,451000.0,287.045654296875,3
+DCWM (ours),dog-run,476000.0,300.0050354003906,3
+DCWM (ours),dog-run,501000.0,307.13671875,3
+DCWM (ours),dog-run,526000.0,337.9020690917969,3
+DCWM (ours),dog-run,551000.0,357.54913330078125,3
+DCWM (ours),dog-run,576000.0,374.7806091308594,3
+DCWM (ours),dog-run,601000.0,397.8785705566406,3
+DCWM (ours),dog-run,626000.0,387.826904296875,3
+DCWM (ours),dog-run,651000.0,392.2071228027344,3
+DCWM (ours),dog-run,676000.0,419.74853515625,3
+DCWM (ours),dog-run,701000.0,401.5615539550781,3
+DCWM (ours),dog-run,726000.0,438.0627136230469,3
+DCWM (ours),dog-run,751000.0,421.5994567871094,3
+DCWM (ours),dog-run,776000.0,445.8479919433594,3
+DCWM (ours),dog-run,801000.0,441.4669494628906,3
+DCWM (ours),dog-run,826000.0,452.7986450195313,3
+DCWM (ours),dog-run,851000.0,428.9090881347656,3
+DCWM (ours),dog-run,876000.0,435.7406311035156,3
+DCWM (ours),dog-run,901000.0,459.6943054199219,3
+DCWM (ours),dog-run,926000.0,461.3465270996094,3
+DCWM (ours),dog-run,951000.0,456.03375244140625,3
+DCWM (ours),dog-run,976000.0,485.8119201660156,3
+DCWM (ours),dog-run,1001000.0,473.5296020507813,3
+DCWM (ours),dog-run,1026000.0,452.5584411621094,3
+DCWM (ours),dog-run,1051000.0,440.4989929199219,3
+DCWM (ours),dog-run,1076000.0,472.2981567382813,3
+DCWM (ours),dog-run,1101000.0,503.907470703125,3
+DCWM (ours),dog-run,1126000.0,486.2085876464844,3
+DCWM (ours),dog-run,1151000.0,454.7933654785156,3
+DCWM (ours),dog-run,1176000.0,492.3211975097656,3
+DCWM (ours),dog-run,1201000.0,493.5158386230469,3
+DCWM (ours),dog-run,1226000.0,485.6278991699219,3
+DCWM (ours),dog-run,1251000.0,501.4322204589844,3
+DCWM (ours),dog-run,1276000.0,482.7686462402344,3
+DCWM (ours),dog-run,1301000.0,506.9392700195313,3
+DCWM (ours),dog-run,1326000.0,502.26611328125,3
+DCWM (ours),dog-run,1351000.0,514.8151245117188,3
+DCWM (ours),dog-run,1376000.0,496.2508850097656,3
+DCWM (ours),dog-run,1401000.0,500.5427856445313,3
+DCWM (ours),dog-run,1426000.0,511.00390625,3
+DCWM (ours),dog-run,1451000.0,496.10791015625,3
+DCWM (ours),dog-run,1476000.0,517.4769897460938,3
+DCWM (ours),dog-run,1501000.0,523.9133911132812,3
+DCWM (ours),dog-run,1526000.0,513.05126953125,3
+DCWM (ours),dog-run,1551000.0,524.57568359375,3
+DCWM (ours),dog-run,1576000.0,524.2056884765625,3
+DCWM (ours),dog-run,1601000.0,548.2396850585938,3
+DCWM (ours),dog-run,1626000.0,532.3076782226562,3
+DCWM (ours),dog-run,1651000.0,531.638671875,3
+DCWM (ours),dog-run,1676000.0,543.4148559570312,3
+DCWM (ours),dog-run,1701000.0,535.6703491210938,3
+DCWM (ours),dog-run,1726000.0,528.0741577148438,3
+DCWM (ours),dog-run,1751000.0,559.9861450195312,3
+DCWM (ours),dog-run,1776000.0,546.9765014648438,3
+DCWM (ours),dog-run,1801000.0,537.857666015625,3
+DCWM (ours),dog-run,1826000.0,540.7225952148438,3
+DCWM (ours),dog-run,1851000.0,552.6864624023438,3
+DCWM (ours),dog-run,1876000.0,543.7545776367188,3
+DCWM (ours),dog-run,1901000.0,549.6197509765625,3
+DCWM (ours),dog-run,1926000.0,545.263671875,3
+DCWM (ours),dog-run,1951000.0,536.7078857421875,3
+DCWM (ours),dog-run,1976000.0,529.9185180664062,3
+DCWM (ours),dog-run,2001000.0,516.322265625,3
+DCWM (ours),dog-run,2026000.0,538.5026245117188,3
+DCWM (ours),dog-run,2051000.0,552.0416870117188,3
+DCWM (ours),dog-run,2076000.0,566.6160278320312,3
+DCWM (ours),dog-run,2101000.0,550.4564819335938,3
+DCWM (ours),dog-run,2126000.0,550.6276245117188,3
+DCWM (ours),dog-run,2151000.0,532.8892822265625,3
+DCWM (ours),dog-run,2176000.0,562.8397827148438,3
+DCWM (ours),dog-run,2201000.0,556.980224609375,3
+DCWM (ours),dog-run,2226000.0,470.2166442871094,3
+DCWM (ours),dog-run,2251000.0,517.4078979492188,3
+DCWM (ours),dog-run,2276000.0,578.4303588867188,3
+DCWM (ours),dog-run,2301000.0,563.3507080078125,3
+DCWM (ours),dog-run,2326000.0,571.8069458007812,3
+DCWM (ours),dog-run,2351000.0,557.92431640625,3
+DCWM (ours),dog-run,2376000.0,560.7891845703125,3
+DCWM (ours),dog-run,2401000.0,577.8551635742188,3
+DCWM (ours),dog-run,2426000.0,587.9694213867188,3
+DCWM (ours),dog-run,2451000.0,512.387939453125,3
+DCWM (ours),dog-run,2476000.0,588.698486328125,3
+DCWM (ours),dog-run,2501000.0,590.5304565429688,3
+DCWM (ours),dog-run,2526000.0,578.0136108398438,3
+DCWM (ours),reacher-hard,1000.0,0.2000000029802322,1
+DCWM (ours),reacher-hard,26000.0,126.5999984741211,1
+DCWM (ours),reacher-hard,51000.0,222.5,1
+DCWM (ours),reacher-hard,76000.0,452.6000061035156,1
+DCWM (ours),reacher-hard,101000.0,684.5,1
+DCWM (ours),reacher-hard,126000.0,832.7000122070312,1
+DCWM (ours),reacher-hard,151000.0,867.1000366210938,1
+DCWM (ours),reacher-hard,176000.0,863.2000122070312,1
+DCWM (ours),reacher-hard,201000.0,870.0,1
+DCWM (ours),reacher-hard,226000.0,961.7000122070312,1
+DCWM (ours),reacher-hard,251000.0,964.4000244140624,1
+DCWM (ours),reacher-hard,276000.0,842.2999877929688,1
+DCWM (ours),reacher-hard,301000.0,849.9000244140625,1
+DCWM (ours),reacher-hard,326000.0,865.2000122070312,1
+DCWM (ours),reacher-hard,351000.0,878.9000244140625,1
+DCWM (ours),reacher-hard,376000.0,967.0,1
+DCWM (ours),reacher-hard,401000.0,863.2999877929688,1
+DCWM (ours),reacher-hard,426000.0,866.4000244140625,1
+DCWM (ours),reacher-hard,451000.0,877.6000366210938,1
+DCWM (ours),reacher-hard,476000.0,918.4000244140624,1
+DCWM (ours),reacher-hard,501000.0,880.4000244140625,1
+DCWM (ours),reacher-hard,526000.0,938.2999877929688,1
+DCWM (ours),reacher-hard,551000.0,867.2999877929688,1
+DCWM (ours),reacher-hard,576000.0,970.2999877929688,1
+DCWM (ours),reacher-hard,601000.0,973.0,1
+DCWM (ours),reacher-hard,626000.0,905.9000244140624,1
+DCWM (ours),reacher-hard,651000.0,968.6000366210938,1
+DCWM (ours),reacher-hard,676000.0,962.9000244140624,1
+DCWM (ours),reacher-hard,701000.0,970.1000366210938,1
+DCWM (ours),reacher-hard,726000.0,868.2999877929688,1
+DCWM (ours),reacher-hard,751000.0,968.2000122070312,1
+DCWM (ours),reacher-hard,776000.0,968.6000366210938,1
+DCWM (ours),reacher-hard,801000.0,898.1000366210938,1
+DCWM (ours),reacher-hard,826000.0,973.2000122070312,1
+DCWM (ours),reacher-hard,851000.0,974.5,1
+DCWM (ours),reacher-hard,876000.0,974.0,1
+DCWM (ours),reacher-hard,901000.0,964.9000244140624,1
+DCWM (ours),reacher-hard,926000.0,969.1000366210938,1
+DCWM (ours),reacher-hard,951000.0,963.6000366210938,1
+DCWM (ours),reacher-hard,976000.0,964.7999877929688,1
+DCWM (ours),reacher-hard,1001000.0,973.1000366210938,1
+DCWM (ours),reacher-hard,1026000.0,914.6000366210938,1
+DCWM (ours),reacher-hard,1051000.0,855.9000244140625,1
+DCWM (ours),reacher-hard,1076000.0,963.2999877929688,1
+DCWM (ours),reacher-hard,1101000.0,925.1000366210938,1
+DCWM (ours),reacher-hard,1126000.0,968.7000122070312,1
+DCWM (ours),reacher-hard,1151000.0,976.7999877929688,1
+DCWM (ours),reacher-hard,1176000.0,983.0,1
+DCWM (ours),reacher-hard,1201000.0,963.4000244140624,1
+DCWM (ours),reacher-hard,1226000.0,970.7000122070312,1
+DCWM (ours),reacher-hard,1251000.0,983.4000244140624,1
+DCWM (ours),reacher-hard,1276000.0,982.2999877929688,1
+DCWM (ours),reacher-hard,1301000.0,980.7000122070312,1
+DCWM (ours),reacher-hard,1326000.0,881.9000244140625,1
+DCWM (ours),reacher-hard,1351000.0,970.4000244140624,1
+DCWM (ours),reacher-hard,1376000.0,981.0,1
+DCWM (ours),reacher-hard,1401000.0,975.9000244140624,1
+DCWM (ours),reacher-hard,1426000.0,974.2999877929688,1
+DCWM (ours),reacher-hard,1451000.0,872.7999877929688,1
+DCWM (ours),reacher-hard,1476000.0,979.7999877929688,1
+DCWM (ours),reacher-hard,1501000.0,964.6000366210938,1
+DCWM (ours),reacher-hard,1526000.0,976.2000122070312,1
+DCWM (ours),reacher-hard,1551000.0,980.7000122070312,1
+DCWM (ours),reacher-hard,1576000.0,973.1000366210938,1
+DCWM (ours),reacher-hard,1601000.0,978.2999877929688,1
+DCWM (ours),reacher-hard,1626000.0,971.9000244140624,1
+DCWM (ours),reacher-hard,1651000.0,978.0,1
+DCWM (ours),reacher-hard,1676000.0,877.1000366210938,1
+DCWM (ours),reacher-hard,1701000.0,877.2999877929688,1
+DCWM (ours),reacher-hard,1726000.0,976.9000244140624,1
+DCWM (ours),reacher-hard,1751000.0,972.5,1
+DCWM (ours),reacher-hard,1776000.0,872.9000244140625,1
+DCWM (ours),reacher-hard,1801000.0,979.7999877929688,1
+DCWM (ours),reacher-hard,1826000.0,974.0,1
+DCWM (ours),reacher-hard,1851000.0,880.1000366210938,1
+DCWM (ours),reacher-hard,1876000.0,974.0,1
+DCWM (ours),reacher-hard,1901000.0,966.6000366210938,1
+DCWM (ours),reacher-hard,1926000.0,977.7999877929688,1
+DCWM (ours),reacher-hard,1951000.0,980.6000366210938,1
+DCWM (ours),reacher-hard,1976000.0,978.0,1
+DCWM (ours),reacher-hard,2001000.0,981.2000122070312,1
+DCWM (ours),reacher-hard,2026000.0,976.2999877929688,1
+DCWM (ours),reacher-hard,2051000.0,972.7999877929688,1
+DCWM (ours),reacher-hard,2076000.0,882.5,1
+DCWM (ours),reacher-hard,2101000.0,974.4000244140624,1
+DCWM (ours),reacher-hard,2126000.0,977.0,1
+DCWM (ours),reacher-hard,2151000.0,971.7000122070312,1
+DCWM (ours),reacher-hard,2176000.0,975.7999877929688,1
+DCWM (ours),reacher-hard,2201000.0,987.5,1
+DCWM (ours),reacher-hard,2226000.0,970.4000244140624,1
+DCWM (ours),reacher-hard,2251000.0,969.2999877929688,1
+DCWM (ours),reacher-hard,2276000.0,979.7999877929688,1
+DCWM (ours),reacher-hard,2301000.0,983.5,1
+DCWM (ours),reacher-hard,2326000.0,882.6000366210938,1
+DCWM (ours),reacher-hard,2351000.0,978.1000366210938,1
+DCWM (ours),reacher-hard,2376000.0,984.0,1
+DCWM (ours),reacher-hard,2401000.0,970.7999877929688,1
+DCWM (ours),reacher-hard,2426000.0,985.5,1
+DCWM (ours),reacher-hard,2451000.0,881.9000244140625,1
+DCWM (ours),reacher-hard,2476000.0,969.7000122070312,1
+DCWM (ours),reacher-hard,2501000.0,975.2000122070312,1
+DCWM (ours),reacher-hard,2526000.0,976.2999877929688,1
+DCWM (ours),reacher-hard,2551000.0,975.1000366210938,1
+DCWM (ours),reacher-hard,2576000.0,964.7000122070312,1
+DCWM (ours),reacher-hard,2601000.0,978.0,1
+DCWM (ours),reacher-hard,2626000.0,977.0,1
+DCWM (ours),reacher-hard,2651000.0,979.6000366210938,1
+DCWM (ours),reacher-hard,2676000.0,975.6000366210938,1
+DCWM (ours),reacher-hard,2701000.0,980.5,1
+DCWM (ours),reacher-hard,2726000.0,972.6000366210938,1
+DCWM (ours),reacher-hard,2751000.0,982.2999877929688,1
+DCWM (ours),reacher-hard,2776000.0,976.1000366210938,1
+DCWM (ours),reacher-hard,2801000.0,980.7999877929688,1
+DCWM (ours),reacher-hard,2826000.0,980.1000366210938,1
+DCWM (ours),reacher-hard,2851000.0,975.0,1
+DCWM (ours),reacher-hard,2876000.0,972.2999877929688,1
+DCWM (ours),reacher-hard,2901000.0,980.9000244140624,1
+DCWM (ours),reacher-hard,2926000.0,976.9000244140624,1
+DCWM (ours),reacher-hard,2951000.0,981.9000244140624,1
+DCWM (ours),reacher-hard,2976000.0,980.7000122070312,1
+DCWM (ours),reacher-hard,3001000.0,978.7999877929688,1
+DCWM (ours),reacher-hard,3026000.0,973.2000122070312,1
+DCWM (ours),reacher-hard,3051000.0,977.1000366210938,1
+DCWM (ours),reacher-hard,3076000.0,983.5,1
+DCWM (ours),reacher-hard,3101000.0,981.4000244140624,1
+DCWM (ours),reacher-hard,3126000.0,984.4000244140624,1
+DCWM (ours),reacher-hard,3151000.0,978.7999877929688,1
+DCWM (ours),reacher-hard,3176000.0,980.4000244140624,1
+DCWM (ours),reacher-hard,3201000.0,981.7999877929688,1
+DCWM (ours),reacher-hard,3226000.0,981.7000122070312,1
+DCWM (ours),reacher-hard,3251000.0,978.7999877929688,1
+DCWM (ours),reacher-hard,3276000.0,977.7000122070312,1
+DCWM (ours),reacher-hard,3301000.0,983.7999877929688,1
+DCWM (ours),reacher-hard,1000.0,13.699999809265137,2
+DCWM (ours),reacher-hard,26000.0,56.60000228881836,2
+DCWM (ours),reacher-hard,51000.0,184.6999969482422,2
+DCWM (ours),reacher-hard,76000.0,88.0,2
+DCWM (ours),reacher-hard,101000.0,235.6999969482422,2
+DCWM (ours),reacher-hard,126000.0,447.2000122070313,2
+DCWM (ours),reacher-hard,151000.0,707.7000122070312,2
+DCWM (ours),reacher-hard,176000.0,546.5,2
+DCWM (ours),reacher-hard,201000.0,765.6000366210938,2
+DCWM (ours),reacher-hard,226000.0,540.1000366210938,2
+DCWM (ours),reacher-hard,251000.0,823.1000366210938,2
+DCWM (ours),reacher-hard,276000.0,852.1000366210938,2
+DCWM (ours),reacher-hard,301000.0,690.7000122070312,2
+DCWM (ours),reacher-hard,326000.0,862.9000244140625,2
+DCWM (ours),reacher-hard,351000.0,767.9000244140625,2
+DCWM (ours),reacher-hard,376000.0,969.7000122070312,2
+DCWM (ours),reacher-hard,401000.0,738.2999877929688,2
+DCWM (ours),reacher-hard,426000.0,855.4000244140625,2
+DCWM (ours),reacher-hard,451000.0,961.2999877929688,2
+DCWM (ours),reacher-hard,476000.0,845.6000366210938,2
+DCWM (ours),reacher-hard,501000.0,772.7999877929688,2
+DCWM (ours),reacher-hard,526000.0,774.9000244140625,2
+DCWM (ours),reacher-hard,551000.0,853.7999877929688,2
+DCWM (ours),reacher-hard,576000.0,908.7999877929688,2
+DCWM (ours),reacher-hard,601000.0,974.0,2
+DCWM (ours),reacher-hard,626000.0,868.9000244140625,2
+DCWM (ours),reacher-hard,651000.0,975.4000244140624,2
+DCWM (ours),reacher-hard,676000.0,879.5,2
+DCWM (ours),reacher-hard,701000.0,923.6000366210938,2
+DCWM (ours),reacher-hard,726000.0,950.0,2
+DCWM (ours),reacher-hard,751000.0,977.6000366210938,2
+DCWM (ours),reacher-hard,776000.0,873.6000366210938,2
+DCWM (ours),reacher-hard,801000.0,964.7999877929688,2
+DCWM (ours),reacher-hard,826000.0,978.6000366210938,2
+DCWM (ours),reacher-hard,851000.0,933.9000244140624,2
+DCWM (ours),reacher-hard,876000.0,970.9000244140624,2
+DCWM (ours),reacher-hard,901000.0,969.5,2
+DCWM (ours),reacher-hard,926000.0,971.2000122070312,2
+DCWM (ours),reacher-hard,951000.0,864.9000244140625,2
+DCWM (ours),reacher-hard,976000.0,970.9000244140624,2
+DCWM (ours),reacher-hard,1001000.0,923.9000244140624,2
+DCWM (ours),reacher-hard,1026000.0,970.2000122070312,2
+DCWM (ours),reacher-hard,1051000.0,974.7000122070312,2
+DCWM (ours),reacher-hard,1076000.0,954.6000366210938,2
+DCWM (ours),reacher-hard,1101000.0,969.6000366210938,2
+DCWM (ours),reacher-hard,1126000.0,975.2000122070312,2
+DCWM (ours),reacher-hard,1151000.0,978.5,2
+DCWM (ours),reacher-hard,1176000.0,971.7000122070312,2
+DCWM (ours),reacher-hard,1201000.0,980.7999877929688,2
+DCWM (ours),reacher-hard,1226000.0,983.9000244140624,2
+DCWM (ours),reacher-hard,1251000.0,981.0,2
+DCWM (ours),reacher-hard,1276000.0,978.2999877929688,2
+DCWM (ours),reacher-hard,1301000.0,982.9000244140624,2
+DCWM (ours),reacher-hard,1326000.0,973.7000122070312,2
+DCWM (ours),reacher-hard,1351000.0,978.0,2
+DCWM (ours),reacher-hard,1376000.0,973.4000244140624,2
+DCWM (ours),reacher-hard,1401000.0,970.4000244140624,2
+DCWM (ours),reacher-hard,1426000.0,975.9000244140624,2
+DCWM (ours),reacher-hard,1451000.0,977.6000366210938,2
+DCWM (ours),reacher-hard,1476000.0,973.1000366210938,2
+DCWM (ours),reacher-hard,1501000.0,976.4000244140624,2
+DCWM (ours),reacher-hard,1526000.0,976.1000366210938,2
+DCWM (ours),reacher-hard,1551000.0,982.2000122070312,2
+DCWM (ours),reacher-hard,1576000.0,978.0,2
+DCWM (ours),reacher-hard,1601000.0,968.0,2
+DCWM (ours),reacher-hard,1626000.0,976.0,2
+DCWM (ours),reacher-hard,1651000.0,982.7000122070312,2
+DCWM (ours),reacher-hard,1676000.0,978.6000366210938,2
+DCWM (ours),reacher-hard,1701000.0,964.7000122070312,2
+DCWM (ours),reacher-hard,1726000.0,976.6000366210938,2
+DCWM (ours),reacher-hard,1751000.0,977.5,2
+DCWM (ours),reacher-hard,1776000.0,981.0,2
+DCWM (ours),reacher-hard,1801000.0,983.2000122070312,2
+DCWM (ours),reacher-hard,1826000.0,972.5,2
+DCWM (ours),reacher-hard,1851000.0,946.2999877929688,2
+DCWM (ours),reacher-hard,1876000.0,976.2999877929688,2
+DCWM (ours),reacher-hard,1901000.0,975.0,2
+DCWM (ours),reacher-hard,1926000.0,978.9000244140624,2
+DCWM (ours),reacher-hard,1951000.0,904.4000244140624,2
+DCWM (ours),reacher-hard,1976000.0,978.5,2
+DCWM (ours),reacher-hard,2001000.0,979.5,2
+DCWM (ours),reacher-hard,2026000.0,978.7999877929688,2
+DCWM (ours),reacher-hard,2051000.0,976.2999877929688,2
+DCWM (ours),reacher-hard,2076000.0,977.2000122070312,2
+DCWM (ours),reacher-hard,2101000.0,975.9000244140624,2
+DCWM (ours),reacher-hard,2126000.0,975.7000122070312,2
+DCWM (ours),reacher-hard,2151000.0,974.5,2
+DCWM (ours),reacher-hard,2176000.0,979.1000366210938,2
+DCWM (ours),reacher-hard,2201000.0,976.9000244140624,2
+DCWM (ours),reacher-hard,2226000.0,978.9000244140624,2
+DCWM (ours),reacher-hard,2251000.0,961.2999877929688,2
+DCWM (ours),reacher-hard,2276000.0,976.9000244140624,2
+DCWM (ours),reacher-hard,2301000.0,975.0,2
+DCWM (ours),reacher-hard,2326000.0,978.5,2
+DCWM (ours),reacher-hard,2351000.0,980.9000244140624,2
+DCWM (ours),reacher-hard,2376000.0,981.0,2
+DCWM (ours),reacher-hard,2401000.0,977.5,2
+DCWM (ours),reacher-hard,2426000.0,982.0,2
+DCWM (ours),reacher-hard,2451000.0,983.4000244140624,2
+DCWM (ours),reacher-hard,2476000.0,979.6000366210938,2
+DCWM (ours),reacher-hard,2501000.0,977.6000366210938,2
+DCWM (ours),reacher-hard,2526000.0,975.5,2
+DCWM (ours),reacher-hard,1000.0,5.300000190734863,3
+DCWM (ours),reacher-hard,26000.0,1.899999976158142,3
+DCWM (ours),reacher-hard,51000.0,15.0,3
+DCWM (ours),reacher-hard,76000.0,120.5,3
+DCWM (ours),reacher-hard,101000.0,94.5999984741211,3
+DCWM (ours),reacher-hard,126000.0,321.70001220703125,3
+DCWM (ours),reacher-hard,151000.0,189.90000915527344,3
+DCWM (ours),reacher-hard,176000.0,244.5,3
+DCWM (ours),reacher-hard,201000.0,508.0,3
+DCWM (ours),reacher-hard,226000.0,521.7000122070312,3
+DCWM (ours),reacher-hard,251000.0,880.2000122070312,3
+DCWM (ours),reacher-hard,276000.0,741.9000244140625,3
+DCWM (ours),reacher-hard,301000.0,692.4000244140625,3
+DCWM (ours),reacher-hard,326000.0,382.2000122070313,3
+DCWM (ours),reacher-hard,351000.0,865.2000122070312,3
+DCWM (ours),reacher-hard,376000.0,968.7999877929688,3
+DCWM (ours),reacher-hard,401000.0,660.4000244140625,3
+DCWM (ours),reacher-hard,426000.0,860.4000244140625,3
+DCWM (ours),reacher-hard,451000.0,933.4000244140624,3
+DCWM (ours),reacher-hard,476000.0,841.7000122070312,3
+DCWM (ours),reacher-hard,501000.0,893.4000244140625,3
+DCWM (ours),reacher-hard,526000.0,921.2999877929688,3
+DCWM (ours),reacher-hard,551000.0,700.2999877929688,3
+DCWM (ours),reacher-hard,576000.0,769.0,3
+DCWM (ours),reacher-hard,601000.0,951.7999877929688,3
+DCWM (ours),reacher-hard,626000.0,749.5,3
+DCWM (ours),reacher-hard,651000.0,949.5,3
+DCWM (ours),reacher-hard,676000.0,941.2999877929688,3
+DCWM (ours),reacher-hard,701000.0,960.2000122070312,3
+DCWM (ours),reacher-hard,726000.0,859.5,3
+DCWM (ours),reacher-hard,751000.0,839.9000244140625,3
+DCWM (ours),reacher-hard,776000.0,844.0,3
+DCWM (ours),reacher-hard,801000.0,922.6000366210938,3
+DCWM (ours),reacher-hard,826000.0,949.2999877929688,3
+DCWM (ours),reacher-hard,851000.0,972.1000366210938,3
+DCWM (ours),reacher-hard,876000.0,978.4000244140624,3
+DCWM (ours),reacher-hard,901000.0,889.2999877929688,3
+DCWM (ours),reacher-hard,926000.0,782.7000122070312,3
+DCWM (ours),reacher-hard,951000.0,959.5,3
+DCWM (ours),reacher-hard,976000.0,781.2999877929688,3
+DCWM (ours),reacher-hard,1001000.0,969.7000122070312,3
+DCWM (ours),reacher-hard,1026000.0,869.7999877929688,3
+DCWM (ours),reacher-hard,1051000.0,843.2999877929688,3
+DCWM (ours),reacher-hard,1076000.0,865.0,3
+DCWM (ours),reacher-hard,1101000.0,968.5,3
+DCWM (ours),reacher-hard,1126000.0,956.1000366210938,3
+DCWM (ours),reacher-hard,1151000.0,963.5,3
+DCWM (ours),reacher-hard,1176000.0,958.7000122070312,3
+DCWM (ours),reacher-hard,1201000.0,968.7999877929688,3
+DCWM (ours),reacher-hard,1226000.0,878.7999877929688,3
+DCWM (ours),reacher-hard,1251000.0,971.4000244140624,3
+DCWM (ours),reacher-hard,1276000.0,975.1000366210938,3
+DCWM (ours),reacher-hard,1301000.0,978.9000244140624,3
+DCWM (ours),reacher-hard,1326000.0,973.2999877929688,3
+DCWM (ours),reacher-hard,1351000.0,927.6000366210938,3
+DCWM (ours),reacher-hard,1376000.0,884.1000366210938,3
+DCWM (ours),reacher-hard,1401000.0,962.5,3
+DCWM (ours),reacher-hard,1426000.0,979.9000244140624,3
+DCWM (ours),reacher-hard,1451000.0,956.7000122070312,3
+DCWM (ours),reacher-hard,1476000.0,969.7000122070312,3
+DCWM (ours),reacher-hard,1501000.0,972.1000366210938,3
+DCWM (ours),reacher-hard,1526000.0,954.0,3
+DCWM (ours),reacher-hard,1551000.0,977.4000244140624,3
+DCWM (ours),reacher-hard,1576000.0,978.9000244140624,3
+DCWM (ours),reacher-hard,1601000.0,780.1000366210938,3
+DCWM (ours),reacher-hard,1626000.0,973.6000366210938,3
+DCWM (ours),reacher-hard,1651000.0,970.1000366210938,3
+DCWM (ours),reacher-hard,1676000.0,975.4000244140624,3
+DCWM (ours),reacher-hard,1701000.0,976.7999877929688,3
+DCWM (ours),reacher-hard,1726000.0,875.7000122070312,3
+DCWM (ours),reacher-hard,1751000.0,886.4000244140625,3
+DCWM (ours),reacher-hard,1776000.0,977.1000366210938,3
+DCWM (ours),reacher-hard,1801000.0,976.1000366210938,3
+DCWM (ours),reacher-hard,1826000.0,974.4000244140624,3
+DCWM (ours),reacher-hard,1851000.0,963.7999877929688,3
+DCWM (ours),reacher-hard,1876000.0,971.4000244140624,3
+DCWM (ours),reacher-hard,1901000.0,976.6000366210938,3
+DCWM (ours),reacher-hard,1926000.0,967.7999877929688,3
+DCWM (ours),reacher-hard,1951000.0,977.2999877929688,3
+DCWM (ours),reacher-hard,1976000.0,966.1000366210938,3
+DCWM (ours),reacher-hard,2001000.0,975.6000366210938,3
+DCWM (ours),reacher-hard,2026000.0,970.2000122070312,3
+DCWM (ours),reacher-hard,2051000.0,979.9000244140624,3
+DCWM (ours),reacher-hard,2076000.0,964.1000366210938,3
+DCWM (ours),reacher-hard,2101000.0,969.2000122070312,3
+DCWM (ours),reacher-hard,2126000.0,979.2000122070312,3
+DCWM (ours),reacher-hard,2151000.0,978.7000122070312,3
+DCWM (ours),reacher-hard,2176000.0,975.4000244140624,3
+DCWM (ours),reacher-hard,2201000.0,981.6000366210938,3
+DCWM (ours),reacher-hard,2226000.0,975.0,3
+DCWM (ours),reacher-hard,2251000.0,965.7999877929688,3
+DCWM (ours),reacher-hard,2276000.0,983.0,3
+DCWM (ours),reacher-hard,2301000.0,973.6000366210938,3
+DCWM (ours),reacher-hard,2326000.0,976.7000122070312,3
+DCWM (ours),reacher-hard,2351000.0,979.6000366210938,3
+DCWM (ours),reacher-hard,2376000.0,974.1000366210938,3
+DCWM (ours),reacher-hard,2401000.0,874.7000122070312,3
+DCWM (ours),reacher-hard,2426000.0,975.2000122070312,3
+DCWM (ours),reacher-hard,2451000.0,985.2999877929688,3
+DCWM (ours),reacher-hard,2476000.0,971.7999877929688,3
+DCWM (ours),reacher-hard,2501000.0,874.7999877929688,3
+DCWM (ours),reacher-hard,2526000.0,977.1000366210938,3
+DCWM (ours),reacher-hard,2551000.0,861.1000366210938,3
+DCWM (ours),reacher-hard,2576000.0,981.0,3
+DCWM (ours),reacher-hard,2601000.0,982.2999877929688,3
+DCWM (ours),reacher-hard,2626000.0,982.4000244140624,3
+DCWM (ours),reacher-hard,2651000.0,977.6000366210938,3
+DCWM (ours),reacher-hard,2676000.0,969.7000122070312,3
+DCWM (ours),reacher-hard,2701000.0,837.1000366210938,3
+DCWM (ours),reacher-hard,2726000.0,977.1000366210938,3
+DCWM (ours),reacher-hard,2751000.0,976.2999877929688,3
+DCWM (ours),reacher-hard,2776000.0,981.0,3
+DCWM (ours),reacher-hard,2801000.0,977.4000244140624,3
+DCWM (ours),reacher-hard,2826000.0,973.1000366210938,3
+DCWM (ours),reacher-hard,2851000.0,979.9000244140624,3
+DCWM (ours),reacher-hard,2876000.0,978.4000244140624,3
+DCWM (ours),reacher-hard,2901000.0,980.6000366210938,3
+DCWM (ours),reacher-hard,2926000.0,979.2000122070312,3
+DCWM (ours),reacher-hard,2951000.0,978.4000244140624,3
+DCWM (ours),reacher-hard,2976000.0,984.4000244140624,3
+DCWM (ours),reacher-hard,3001000.0,969.9000244140624,3
+DCWM (ours),reacher-hard,3026000.0,980.2999877929688,3
+DCWM (ours),reacher-hard,3051000.0,975.4000244140624,3
+DCWM (ours),reacher-hard,3076000.0,987.9000244140624,3
+DCWM (ours),reacher-hard,3101000.0,977.2000122070312,3
+DCWM (ours),reacher-hard,3126000.0,974.9000244140624,3
+DCWM (ours),reacher-hard,3151000.0,976.1000366210938,3
+DCWM (ours),reacher-hard,3176000.0,977.1000366210938,3
+DCWM (ours),reacher-hard,3201000.0,972.4000244140624,3
+DCWM (ours),reacher-hard,3226000.0,977.9000244140624,3
+DCWM (ours),reacher-hard,3251000.0,978.0,3
+DCWM (ours),reacher-hard,3276000.0,961.9000244140624,3
+DCWM (ours),reacher-hard,3301000.0,979.2000122070312,3
+DCWM (ours),reacher-hard,3326000.0,974.4000244140624,3
+DCWM (ours),reacher-hard,3351000.0,977.4000244140624,3
+DCWM (ours),reacher-hard,3376000.0,977.2999877929688,3
+DCWM (ours),reacher-hard,3401000.0,975.5,3
+DCWM (ours),reacher-hard,3426000.0,977.7000122070312,3
+DCWM (ours),reacher-hard,3451000.0,976.5,3
+DCWM (ours),reacher-hard,3476000.0,980.2000122070312,3
+DCWM (ours),reacher-hard,3501000.0,974.7000122070312,3
+DCWM (ours),reacher-hard,3526000.0,980.4000244140624,3
+DCWM (ours),reacher-hard,3551000.0,979.9000244140624,3
+DCWM (ours),reacher-hard,3576000.0,978.7000122070312,3
+DCWM (ours),reacher-hard,3601000.0,980.2000122070312,3
+DCWM (ours),reacher-hard,3626000.0,976.6000366210938,3
+DCWM (ours),reacher-hard,3651000.0,972.6000366210938,3
+DCWM (ours),reacher-hard,3676000.0,979.5,3
+DCWM (ours),reacher-hard,3701000.0,985.6000366210938,3
+DCWM (ours),reacher-hard,3726000.0,983.7000122070312,3
+DCWM (ours),reacher-hard,3751000.0,977.6000366210938,3
+DCWM (ours),reacher-hard,3776000.0,978.6000366210938,3
+DCWM (ours),reacher-hard,3801000.0,981.5,3
+DCWM (ours),reacher-hard,3826000.0,973.9000244140624,3
+DCWM (ours),reacher-hard,3851000.0,976.2000122070312,3
+DCWM (ours),reacher-hard,3876000.0,982.0,3
+DCWM (ours),reacher-hard,3901000.0,943.7999877929688,3
+DCWM (ours),reacher-hard,3926000.0,976.6000366210938,3
+DCWM (ours),reacher-hard,3951000.0,974.9000244140624,3
+DCWM (ours),reacher-hard,3976000.0,980.5,3
